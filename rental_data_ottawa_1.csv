@@ -1,0 +1,763 @@
+City,Property Type,Bedrooms,Bathrooms,Square Footage,Address,Zip code,Price
+Ottawa,apartment,1-2,2,856,"90 Champagne  - Ottawa , ON",K1S 4P1,$2100 - $2900
+City not found,apartment,0-1,1,756,"253 - 257 York Street  - Ottawa , ON",K1N 5T9,$1675 - $1850
+City not found,apartment,0-1,1,470,"86-92 Hinton  - Ottawa , ON",K1Y 2Z7,$1700 - $2200
+Ottawa,apartment,0-2,1,167,"256 Rideau  - Ottawa , ON",K1N 0A9,$1285 - $2970
+City not found,apartment,1,1,1010,"150-152 Osgoode Street  - Ottawa , ON",K1N 8A4,$1400
+Ottawa,apartment,0-2,2,954,"400 Kirkwood Avenue  - Ottawa , ON",K1Z 8N4,$1487 - $3268
+Ottawa,apartment,1-2,2,1700,"121 Parkdale Ave  - Ottawa , ON",K1Y 4S9,$1920 - $4885
+Ottawa,apartment,1-2.5,1,979,"929 Richmond Road  - Ottawa , ON",K2A 3T9,$1640 - $2630
+Ottawa,apartment,1-2,2,855,"192 Bronson Ave.  - Ottawa , ON",K1R 6P3,$1950 - $3900
+Ottawa,apartment,1-2,2,984,"1309 Carling Avenue  - Ottawa , ON",K1Z 7L3,$2306 - $2981
+Ottawa,town-house,3,1,400,"135 Dalhousie Street  - Ottawa , ON",K1N 7C2,$2675
+Ottawa,private-room,4,2,600,"144 Osgoode Street  - Ottawa , ON",K1N 8A4,$720
+Ottawa,apartment,1-2,2,645,"89 Nepean Street  - Ottawa , ON",K2P 2B0,$1915 - $2375
+Ottawa,apartment,0-2,2,1200,"287 Lisgar Street  - Ottawa , ON",K2P 0E1,$1700 - $2425
+Ottawa,apartment,0-2,2,1450,"383 Albert Street  - Ottawa , ON",K1R 5B2,$1625 - $2685
+Ottawa,apartment,1,1,237,"46 Nelson  - Ottawa , ON",K1N 5T9,$1925
+Ottawa,apartment,0-1,1,425,"280 Laurier Avenue East  - Ottawa , ON",K1N 7Z2,$1865 - $1950
+Ottawa,apartment,0,1,623,"196 Beechwood  - Ottawa , ON",K1L 8A1,$1750
+Ottawa,apartment,1-2,2,670,"12 Jolliet  - Ottawa , ON",K1L 5S2,$2190 - $2500
+Ottawa,private-room,2,1,698,"591 O'Connor  - Ottawa , ON",K1S 2G1,$3000
+Ottawa,apartment,2,2,370,"105 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$1300 - $1550
+Ottawa,apartment,2-4,4,1745,"101 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$1240 - $1470
+Ottawa,apartment,2,1,586,"238 Carruthers  - Ottawa , ON",K1Y 1P8,$2550
+Ottawa,apartment,0,1,960,"140 Osgoode Street  - Ottawa , ON",K1N 8A4,$1350
+Ottawa,apartment,5,2,836,"18 Mcarthur  - Ottawa , ON",K1K 1K4,$4000
+Ottawa,duplex,3,1,600,"216 Gladu  - Ottawa , ON",K1L 6P8,$2400
+Gloucester,apartment,2-3,2,620,"530 Pimiwidon Street  - Gloucester , ON",Postal code not found,$2550 - $3400
+Ottawa,apartment,0,1,470,"87 Mann Avenue  - Ottawa , ON",K1N 7Z9,$1575 - $1675
+City not found,multi-unit,7,3,670,"101-115 Amaya  - Ottawa , ON",K2A 1P6,$900
+Ottawa,apartment,0,1,560,"330 McLeod  - Ottawa , ON",K2P 1A4,$1500
+Ottawa,apartment,1,1,350,"174 Clarence  - Ottawa , ON",K4C 1G9,$1700
+Ottawa,apartment,1,1,1210,"178 Clarence  - Ottawa , ON",K1N 8Y3,$1675 - $1695
+Ottawa,multi-unit,0,1,1100,"139 Henderson  - Ottawa , ON",K1N 0A6,$1500
+Ottawa,apartment,3,1,940,"142 Osgoode Street  - Ottawa , ON",K1N 8A4,$2700
+Ottawa,apartment,1,1,610,"22 Murray Street  - Ottawa , ON",K1N 9M5,$1910
+Ottawa,apartment,1,1,726,"60 Daly Avenue  - Ottawa , ON",K1N 7G4,$1649
+Ottawa,apartment,1-3,2,550,"99 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$1740 - $4500
+Ottawa,apartment,1,1,874,"341 MacLaren Street  - Ottawa , ON",K2P 0M7,$1779
+Ottawa,apartment,1,1,993,"335 MacLaren Street  - Ottawa , ON",K2P 0M7,$1750 - $1775
+Ottawa,apartment,1-2,2,716,"638 Center Street  - Ottawa , ON",K1K 4S5,$1740 - $2325
+City not found,apartment,1-3,1.5,753,"460 St-Laurent blvd  - Ottawa , ON",K1K 2Z8,$1805 - $3560
+Ottawa,apartment,5,2,786,"323 Besserer  - Ottawa , ON",K1N 1C7,$4250
+Ottawa,apartment,5,1,854,"310 Somerset Street East  - Ottawa , ON",K1N 6V7,$4500
+Ottawa,apartment,1,1,607,"833 Richmond Road  - Ottawa , ON",K2B 8E4,$2010
+Ottawa,apartment,0,1,925,"185/195/200 Clearview Avenue  - Ottawa , ON",K1Z 1G4,$1499
+Ottawa,apartment,2-3,2.5,1200,"1140/1150 Fisher Avenue  - Ottawa , ON",K2E 0B6,$2039 - $3499
+Ottawa,apartment,0-1,1,422,"1316 Carling Avenue  - Ottawa , ON",K1Z 7L3,$1529 - $1629
+Ottawa,apartment,2,1,433,"315 Holmwood Avenue  - Ottawa , ON",K1S 2R2,$2285
+Ottawa,apartment,0-2,1,626,"1170 Fisher Avenue  - Ottawa , ON",K1Z 6P7,$1529 - $1995
+Gloucester,apartment,1,1,765,"2750 Carousel Crescent  - Gloucester , ON",K1T 4H4,$1625
+Ottawa,apartment,1,1,570,"40 The Driveway  - Ottawa , ON",K1N 9A5,$1949
+Ottawa,apartment,1,1,981,"1241 Kilborn Place  - Ottawa , ON",K1H 8N6,$1649
+Ottawa,apartment,1,1,1,"200 Rideau Terrace  - Ottawa , ON",K1M 1B2,$1729
+Gloucester,apartment,1,1,695,"2700 Saratoga Place  - Gloucester , ON",K1T 4H4,$1599
+Ottawa,apartment,1-2,1,1650,"285 Loretta Ave S  - Ottawa , ON",K1V 1R6,$1750 - $2050
+Ottawa,apartment,0-1,1,500,"360 Friel  - Ottawa , ON",K1N 6M3,$1775 - $2100
+Ottawa,apartment,1,1,1282,"411 North River Rd.  - Ottawa , ON",K1K 1K4,$1899 - $1949
+Ottawa,duplex,6,2,3000,"533 Chapel  - Ottawa , ON",K1N 7Z9,$925
+Ottawa,multi-unit,6,2,795,"75 Blackburn Avenue  - Ottawa , ON",K1N 6W3,$925
+Ottawa,apartment,0-2,2,1200,"335 Cooper Street  - Ottawa , ON",K2P 0G7,$1575 - $2299
+Ottawa,apartment,0-3,2,1300,"70 Gloucester Street  - Ottawa , ON",K2P 1N6,$1675 - $3145
+Ottawa,apartment,1,1,380,"385 Besserer St  - Ottawa , ON",K1N 6H3,$1750
+Ottawa,apartment,1-2,2,740,"435 Albert St.  - Ottawa , ON",K1R 5B5,$2050 - $2600
+Ottawa,apartment,0-1,1,765,"250 Besserer  - Ottawa , ON",K1N 5Y5,$1650 - $1950
+Ottawa,multi-unit,7,4,1700,"97 Fourth Avenue  - Ottawa , ON",K1S 2L1,$6055
+Ottawa,multi-unit,0-1,1,500,"80 Nelson Street  - Ottawa , ON",K1N 5T9,$1395 - $1475
+Ottawa,apartment,1,1,1449,"169 Lisgar Street  - Ottawa , ON",K1R 6H6,$1950
+Ottawa,apartment,0,1,422,"145 Stewart Street  - Ottawa , ON",K1N 7N1,$1499
+Ottawa,apartment,2,1,941,"170 Metcalfe  - Ottawa , ON",K2P 1P8,$2650
+Ottawa,apartment,2,1,1107,"199 Holland Avenue  - Ottawa , ON",K1Y 0X4,$1899
+City not found,town-house,2,1,860,"530 Laurier Avenue West - 1  - Ottawa , ON",K1R 7Y7,$2450
+Ottawa,house,2,1,1115,"71 Grosvenor Avenue  - Ottawa , ON",K1S 2Y7,$2500
+City not found,town-house,2,2,930,"196 Besserer Street - 1202  - Ottawa , ON",K1N 7M7,$2800
+City not found,town-house,2,2,453,"134 York Street - 703  - Ottawa , ON",K1N 5T9,$2500
+Ottawa,house,3,2,1136,"1249 Kingston Ave.  - Ottawa , ON",K1Z 8E6,$2400
+Ottawa,house,4,1,448,"419 Bronson Avenue  - Ottawa , ON",K1R 6P3,$2800
+City not found,apartment,1,1,831,"138 Somerset Street West - 809  - Ottawa , ON",K1Y 2H4,$1950
+City not found,town-house,3,3,470,"107G- 250 Fountain Place - 1  - Ottawa , ON",K1N 6A3,$3400
+City not found,apartment,0,1,800,"427 Main Street - 1  - Ottawa , ON",K1S 1B4,$1500
+Ottawa,apartment,1,1,900,"2969 Fairlea Crescent  - Ottawa , ON",K1V 9P5,$1740
+3532,apartment,1-4,1.5,550,"3528-3532, 3550 &amp; 3590 Downpatrick Road  - Ottawa , ON",K1V 8S8,$1519 - $2462
+Ottawa,apartment,0-1,1,1395,"2181 Navaho Drive  - Ottawa , ON",K2C 0C5,$1592 - $1671
+Ottawa,apartment,0-2,1,967,"3360 Paul Anka Drive  - Ottawa , ON",K1V 9S2,$1566 - $1830
+Ottawa,apartment,1-2,1,842,"190 Lees Avenue  - Ottawa , ON",K1N 8M9,$1750 - $2439
+Ottawa,apartment,1-2,1,936,"2920 Fairlea Crescent  - Ottawa , ON",K1V 9P5,$1510 - $1861
+Ottawa,apartment,1-2,1,1099,"1971 St. Laurent Boulevard  - Ottawa , ON",K1G 3P8,$1555 - $1880
+Ottawa,apartment,1-2,1,1150,"1975 St. Laurent Boulevard  - Ottawa , ON",K1G 3P8,$1634 - $2012
+Ottawa,house,4,3.5,1776,"351A Whitby Ave.  - Ottawa , ON",K2A 0B3,$4000
+Ottawa,apartment,1,1,1052,"21 James Street  - Ottawa , ON",K2P 2A8,$1818
+City not found,apartment,1,1,700,"140 Stewart Street - 5  - Ottawa , ON",K1N 6K5,$1350
+Ottawa,apartment,1-2,1,700,"860 Blackthorne Avenue  - Ottawa , ON",K1K 3Y7,$1789 - $1895
+Ottawa,apartment,0-2,1,400,"57 Bayswater Avenue  - Ottawa , ON",K1Y 0H3,$1549 - $1985
+Ottawa,apartment,3,1,700,"235 Charlotte Street  - Ottawa , ON",K1N 8L5,$2395 - $2489
+Ottawa,duplex,1,1,900,"438 Parkdale Ave  - Ottawa , ON",K1Y 1H3,$2000
+City not found,duplex,2,1,1200,"335 Saint Patrick Street - 1  - Ottawa , ON",K1N 1E7,$2100
+Ottawa,house,2,1,578,"4 Stevens Avenue  - Ottawa , ON",K1K 1K4,$1750
+Gloucester,town-house,3,1.5,600,"1365 Lily Lane  - Gloucester , ON",K1B 3L7,$2100
+Ottawa,town-house,3,1.5,870,"4468 Elaine Drive  - Ottawa , ON",K1J 8W3,$2100
+Ottawa,apartment,1.5-2.5,2,819,"1425 Vanier Parkway  - Ottawa , ON",K1K 1V2,$2475 - $3575
+City not found,apartment,0,1,407,"61 Parent Avenue - 204  - Ottawa , ON",K1N 5C8,$1345 - $1350
+Ottawa,apartment,1,1,349,"212 1/2 &amp; 216 1/2 Bank Street  - Ottawa , ON",K1H 8K5,$1649
+Ottawa,apartment,1,1,962,"1196 Shillington Avenue  - Ottawa , ON",K1Z 7Z4,$1579
+City not found,apartment,1,1,658,"1030-1040 Hollington Street  - Ottawa , ON",K1Z 7Z4,$1549
+Ottawa,apartment,0-1,1,638,"350 Mayfield  - Ottawa , ON",K1L 7W8,$1450 - $1600
+Ottawa,apartment,0-2,1,631,"50 Selkrik  - Ottawa , ON",Postal code not found,$1450 - $1900
+Ottawa,apartment,0-3,1,888,"324 Cambridge  - Ottawa , ON",K1R 6J9,$1400 - $3200
+Ottawa,apartment,1,1,1090,"46 MacLaren  - Ottawa , ON",K2P 0H3,$2195
+Ottawa,apartment,1-2,1,660,"143 MacLaren Street  - Ottawa , ON",K2P 1M2,$1799 - $2749
+Ottawa,apartment,1,1,763,"130 MacLaren  - Ottawa , ON",K2P 1M2,$1750
+Ottawa,apartment,1,1,690,"218 MacLaren Street  - Ottawa , ON",K2P 2K2,$1460 - $1618
+Ottawa,house,4,1.5,600,"2257 Samuel Drive  - Ottawa , ON",K1G 3A7,$2695
+Ottawa,apartment,0-1,1,963,"266 Bronson Avenue  - Ottawa , ON",K1R 6P3,$1395 - $1695
+Ottawa,apartment,0-2,2,1234,"180 Metcalfe Street  - Ottawa , ON",K2P 1N3,$1850 - $4875
+City not found,town-house,2,2,650,"1500 Riverside Drive - 907  - Ottawa , ON",K1G 0E5,$3200
+Ottawa,house,3,2,750,"204 Compton Avenue  - Ottawa , ON",K2A 3T9,$3000
+Ottawa,town-house,1,1,870,"60 Springhurst Avenue  - Ottawa , ON",K1S 1B9,$2375
+Ottawa,apartment,1,1,541,"40 Nepean St  - Ottawa , ON",K2P 2B0,$2195
+Ottawa,apartment,1,1,1080,"300 Lett  - Ottawa , ON",K1R 0B8,$2195
+Ottawa,duplex,2,1,1113,"845 Trojan AvenueB  - Ottawa , ON",Postal code not found,$1495
+Ottawa,duplex,3,1,580,"169 Florence St  - Ottawa , ON",K1R 5M3,$2800
+Ottawa,apartment,1,1,693,"255 Fréchette St Vanier  - Ottawa , ON",K1L 5S2,$1450
+Ottawa,town-house,3,1,1150,"103 Pretoria Ave  - Ottawa , ON",K1S 3N6,$3500
+Ottawa,house,3,2,960,"873 Wingate Drive  - Ottawa , ON",K1G 1R7,$2990
+Ottawa,apartment,2,1,925,"127 Second Ave.  - Ottawa , ON",K1S 2H2,$1900
+Ottawa,apartment,1,1,575,"210 Chapel St.  - Ottawa , ON",K1N 5Z4,$1600 - $1700
+Ottawa,apartment,1,1,940,"234 Charlotte St.  - Ottawa , ON",K1N 6H3,$1600
+Ottawa,apartment,0,1,962,"729 Cooper St.  - Ottawa , ON",K1R 5J5,$1350
+Ottawa,apartment,2,1,655,"33 Heney Street  - Ottawa , ON",K1N 8Z7,$1950
+Ottawa,house,4,3,975,"42 Walton Court  - Ottawa , ON",K1V 6M4,$2450
+Ottawa,house,2,2,841,"355 Gilmour Street  - Ottawa , ON",K2P 0N9,$2100 - $2650
+Ottawa,apartment,1,1,809,"550 Lang's Road  - Ottawa , ON",K1K 0T1,$1775
+Ottawa,house,4,2,743,"2079 Alta Vista Drive  - Ottawa , ON",K1H 8M7,$3100
+City not found,apartment,0,1,424,"3 - 69 Daly Avenue  - Ottawa , ON",K1N 6H3,$1350
+Ottawa,apartment,1,1,546,"410 Laurier Ave W  - Ottawa , ON",K1R 7Y7,$2345
+Ottawa,apartment,1,1,700,"556 Laurier Ave W  - Ottawa , ON",K1R 7T7,$2345
+Ottawa,apartment,4,1,770,"1998 Beaconwood Drive  - Ottawa , ON",K1J 6N2,$2545
+Ottawa,apartment,1,1,1500,"186 James Street  - Ottawa , ON",K1R 6E5,$1750
+Ottawa,private-room,1,4.5,2800,"Birchview Road  - Ottawa , ON",K2G 1V9,$717
+Ottawa,apartment,1-2,2,800,"2861 Baycrest Drive  - Ottawa , ON",K1V 0G8,$1329 - $1729
+Ottawa,apartment,0-3,2,800,"2870 Cedarwood Drive  - Ottawa , ON",K1V 0G8,$1099 - $1859
+Ottawa,apartment,1-2,1,1467,"324 Laurier  - Ottawa , ON",K1P 0A4,$1900 - $2700
+City not found,duplex,3,1,1000,"2636 Don Street - 1  - Ottawa , ON",K2B 8G5,$2300
+Ottawa,apartment,1-3,2,400,"2220 &amp; 2240 Halifax Drive  - Ottawa , ON",K1G 3C3,$1975 - $2930
+City not found,apartment,1-3,1.5,1450,"810-860 Canterbury Avenue  - Ottawa , ON",K1G 2H7,$1910 - $2340
+City not found,town-house,1,1,1000,"6B Monk Street - 1 (Basement)  - Ottawa , ON",Postal code not found,$2100
+City not found,town-house,2,1,850,"4 Monk Street - 3  - Ottawa , ON",K1S 3W4,$3800
+City not found,town-house,1,1,1000,"2 Monk Street - 2  - Ottawa , ON",K1S 3W4,$2400
+City not found,town-house,1,1,1700,"156 Fifth Avenue - 3  - Ottawa , ON",K1S 2N1,$2700
+City not found,town-house,1,1,370,"154 Fifth Avenue - 1 (Basement)  - Ottawa , ON",Postal code not found,$2100
+Ottawa,apartment,1-2,2,88,"18 Hamilton Avenue North  - Ottawa , ON",K1Y 1B6,$1995 - $2800
+City not found,town-house,2,1.5,850,"C - 302 Everest Private  - Ottawa , ON",K1G 1A2,$2100
+Ottawa,house,2,1,2200,"15 Louisa Street  - Ottawa , ON",K1R 7H8,$2419
+Ottawa,apartment,1,1,1400,"141 Augusta Street  - Ottawa , ON",K1N 6B9,$1670
+Ottawa,apartment,1,2,800,"144 Clarence St.  - Ottawa , ON",K1N 7E7,$2700
+Gloucester,apartment,1-2,2,1000,"200 Frontier Path Private  - Gloucester , ON",K1J 1G1,$1895 - $4150
+Gloucester,apartment,1-2,2,2000,"100 Frontier Path Private  - Gloucester , ON",K1J 1G1,$2100 - $2795
+Ottawa,apartment,1-3,2,420,"1755 Frobisher Lane  - Ottawa , ON",K1G 3T7,$1652 - $3607
+City not found,town-house,3,3.5,1600,"133 Prince Albert Street - 1  - Ottawa , ON",K1J 9L9,$2950
+Ottawa,apartment,1-2,1,150,"2310 Fox Crescent  - Ottawa , ON",K2B 7G3,$1450 - $1699
+Ottawa,apartment,1-2,1,550,"981 Gulf Place  - Ottawa , ON",K1K 0S6,$1810 - $1895
+Ottawa,apartment,2,1,2000,"255 Stewart Street  - Ottawa , ON",K1N 7N1,$2299
+Ottawa,apartment,0-4,2,1500,"36 Robinson Ave  - Ottawa , ON",K1N 8M9,$1595 - $3860
+Ottawa,house,4,1.5,1227,"308 Cumberland Street  - Ottawa , ON",K1N 8Y3,$2800
+City not found,apartment,3,1,1461,"2480-2628 Hunter's Point Crescent  - Ottawa , ON",K1T 4H4,$2290
+City not found,apartment,2,1,1600,"1811-1847 Frobisher Lane  - Ottawa , ON",K1G 3T7,$2299
+Ottawa,apartment,1-2,1,850,"325 Besserer Street  - Ottawa , ON",K1N 1C7,$1795 - $2195
+Ottawa,apartment,1-2,1,1500,"407 Elgin Street  - Ottawa , ON",K2P 1N3,$1895 - $2995
+Ottawa,apartment,0,1,1579,"200 Bronson Avenue  - Ottawa , ON",K1R 6P3,$1450
+Ottawa,apartment,1,1,1600,"255 Metcalfe Street  - Ottawa , ON",K2P 1R7,$1750 - $1995
+Ottawa,apartment,2,1,1775,"52 Bayswater Avenue  - Ottawa , ON",K1Y 0H3,$1950
+Ottawa,apartment,1-3,1.5,1000,"1300 Richmond Road  - Ottawa , ON",K2B 8J7,$1645 - $2495
+Ottawa,apartment,1,1,2400,"784 Saint Laurent Boulevard  - Ottawa , ON",Postal code not found,$1775
+Ottawa,apartment,1-2,1,1800,"170 Metcalfe St  - Ottawa , ON",K2P 1P8,$2700 - $3300
+Ottawa,apartment,1-2,1,1000,"1833 Frobisher Lane  - Ottawa , ON",K1G 3T7,$1569 - $1969
+Ottawa,apartment,0-2,1,1200,"185 Lyon Street North  - Ottawa , ON",K1R 7X6,$1857 - $2875
+Ottawa,apartment,1,1,1800,"290 Mona Avenue  - Ottawa , ON",K1L 6B3,$1549
+Ottawa,apartment,1,1,700,"45 Somerset St. W  - Ottawa , ON",K2P 0H3,$1729
+Ottawa,apartment,0,1,500,"135 MacLaren Street  - Ottawa , ON",K2P 1M2,$1599
+Ottawa,apartment,1-2,2,1750,"964 Smyth Rd  - Ottawa , ON",K1G 4G3,$1995 - $2650
+Ottawa,apartment,1,1,460,"2851 Baycrest Drive  - Ottawa , ON",K1V 0G8,$1329
+City not found,apartment,1,1,625,"1161-1171 Wellington St.  - Ottawa , ON",K1A 0A3,$1579 - $1999
+Ottawa,apartment,1,1,1100,"146 Stewart Street  - Ottawa , ON",K1N 7N1,$1669
+Ottawa,apartment,1,1.5,974,"126 Sparks Street  - Ottawa , ON",K1P 5A0,$2450 - $2800
+Ottawa,apartment,2,2,1200,"60 Stately Pvt  - Ottawa , ON",K1K 1V9,$2200
+Ottawa,apartment,1,1,1160,"360 Croydon Avenue  - Ottawa , ON",K2B 7H6,$1629 - $1649
+Ottawa,apartment,1-2,1,600,"99 Fifth Ave  - Ottawa , ON",K1S 2L1,$1999 - $4069
+Ottawa,apartment,1-2,2,2000,"221 Lyon Street North  - Ottawa , ON",K1R 7X5,$2462 - $2831
+Nepean,apartment,0-1,1,1800,"18 &amp; 20 Deerfield Drive  - Nepean , ON",K2G 3N5,$1589 - $1769
+Ottawa,apartment,1-2,1,1,"1343 Meadowlands Drive  - Ottawa , ON",K2C 1N6,$1576 - $1827
+Ottawa,apartment,1-4,2,815,"1000 Castle Hill Crescent  - Ottawa , ON",K2C 3R8,$1825 - $3060
+Ottawa,apartment,2,1,1350,"335 McArthur Ave.  - Ottawa , ON",K1L 6N5,$1664
+Ottawa,apartment,1,1,2400,"1725 Frobisher Lane  - Ottawa , ON",K1G 3T7,$1649
+Ottawa,apartment,1-2,2,900,"1960 Scott Street  - Ottawa , ON",K1Z 8L8,$2200 - $2700
+Ottawa,apartment,1-2,2,265,"175 Carruthers Avenue,  - Ottawa , ON",K1Y 1P8,$1885 - $3385
+Ottawa,apartment,1,1,800,"1735 Frobisher Lane  - Ottawa , ON",K1G 3T7,$1604 - $1669
+Ottawa,apartment,1-2,1,600,"2025 &amp; 2035 Othello Avenue  - Ottawa , ON",K1G 4G3,$1569 - $1834
+Ottawa,apartment,0-1,1,477,"100 Bronson Avenue  - Ottawa , ON",K1R 0B2,$1489 - $1899
+Ottawa,apartment,1,1,250,"350 Montgomery St  - Ottawa , ON",K1N 7W8,$1700 - $1800
+Ottawa,apartment,1-3,1,710,"1591 Lycee Place  - Ottawa , ON",K1G 0E5,$1742 - $2612
+Ottawa,apartment,0-1,1,650,"20 York Street  - Ottawa , ON",K1N 5T9,$1758 - $2177
+City not found,apartment,1-2,1,700,"1785-1815 Baseline Road  - Ottawa , ON",K2C 3E7,$1649 - $2149
+Ottawa,apartment,0-2.5,2,1300,"165 Chapel Street  - Ottawa , ON",K1N 5Z4,$1849 - $2699
+Ottawa,apartment,1,1,1000,"160 Chapel Street  - Ottawa , ON",K1N 5Z4,$1600 - $1850
+Ottawa,apartment,0-2,1,1264,"19 Robinson  - Ottawa , ON",K1N 8M9,$1575 - $2355
+Ottawa,apartment,1-2,1,662,"17 Aberdeen Street  - Ottawa , ON",K1S 1N4,$2079 - $2899
+City not found,apartment,1-2,1,1500,"346-376 Tillbury Avenue  - Ottawa , ON",K2A 2A8,$1590 - $1790
+Ottawa,apartment,1-2,1,600,"211 Wurtemburg Street  - Ottawa , ON",K1N 6A2,$1500 - $2365
+Ottawa,apartment,1,1,1000,"4 Somerset St West  - Ottawa , ON",K2P 0B9,$1900
+Ottawa,apartment,1-2,1,750,"257 Lisgar Street  - Ottawa , ON",K2P 0C9,$1770 - $2410
+Ottawa,apartment,1-2,2,700,"1161 Heron Road  - Ottawa , ON",K1H 7Z6,$1800 - $2350
+Ottawa,apartment,1,1,700,"214 Metcalfe Street  - Ottawa , ON",K2P 1P8,$1769 - $1819
+Ottawa,apartment,0-2.5,2,2000,"165 Chapel Street  - Ottawa , ON",K1N 5Z4,$1829 - $2699
+Ottawa,apartment,1-2,2,855,"46 Flora St  - Ottawa , ON",K2P 1A7,$1720 - $2470
+Ottawa,apartment,1-1.5,1.5,1200,"1140 Wellington St West  - Ottawa , ON",K1Y 2X9,$2115 - $2340
+Ottawa,apartment,1,1,1150,"235 Somerset Street West  - Ottawa , ON",K1Y 2H4,$1900
+City not found,apartment,2,1,1100,"1230-1240 Emperor Ave  - Ottawa , ON",K1Z 6H7,$1849
+Ottawa,apartment,6,3,1000,"149 Henderson  - Ottawa , ON",K1N 0A6,$920
+Ottawa,apartment,1,1,650,"251 Bolton St.  - Ottawa , ON",K1N 5B3,$1650
+Ottawa,apartment,0,1,950,"105 Rosemount Ave.  - Ottawa , ON",K1Y 3H7,$1400
+Ottawa,apartment,1,1,850,"111 Wurtemburg Street  - Ottawa , ON",K1N 8Z7,$1975
+Ottawa,apartment,1-4,2,1100,"305 Rideau St  - Ottawa , ON",K1N 5Y4,$995 - $2060
+Ottawa,apartment,0-2,2,650,"111 Cooper Street  - Ottawa , ON",K2P 1J2,$1250 - $1915
+Ottawa,apartment,2,1,1000,"430 Daly Ave.  - Ottawa , ON",K1N 6H3,$2100
+Ottawa,apartment,1,1,1350,"408 Albert St.  - Ottawa , ON",K1R 5B2,$1700
+Ottawa,apartment,1-2,2,450,"641 Bathgate Drive  - Ottawa , ON",K1K 0S6,$2995 - $3495
+Ottawa,apartment,1,1,650,"72 Flora St.  - Ottawa , ON",K2P 1A7,$1400
+Ottawa,apartment,2,1,1200,"400 Montfort Street  - Ottawa , ON",K1L 6B3,$2095
+Ottawa,shared-room,2,1,2500,"111 Cooper Street  - Ottawa , ON",K2P 1J2,$1076
+Gloucester,condo,2,2.5,500,"672 Danaca Private  - Gloucester , ON",Postal code not found,$2700
+Ottawa,house,5,3.5,546,"2083 Delmar Drive  - Ottawa , ON",K1H 5N1,$3300
+Ottawa,apartment,1,1,1048,"982 Fisher Avenue  - Ottawa , ON",K1Z 7W8,$2195
+Ottawa,multi-unit,2,1,766,"125 Henderson Avenue  - Ottawa , ON",K1N 0A6,$1950
+Ottawa,apartment,3,1,600,"451 Echo Drive  - Ottawa , ON",K1S 2H2,$2900
+Ottawa,apartment,1,1,583,"41 McNaughton Avenue  - Ottawa , ON",K1S 1C4,$2300
+Ottawa,apartment,1,1,787,"180 Beausoleil Drive  - Ottawa , ON",K1N 5V3,$1550
+Ottawa,apartment,2,2,1200,"419 Ravenhill Avenue  - Ottawa , ON",K2A 3L9,$2287
+Ottawa,apartment,2,1,1200,"158 McArthur Avenue  - Ottawa , ON",K1L 6P8,$2100
+Ottawa,apartment,3,1,1300,"228 Woodroffe Avenue  - Ottawa , ON",K2A 3V1,$2675
+Ottawa,apartment,1,1,800,"211 Besserer Street  - Ottawa , ON",K1N 7M7,$1700
+Ottawa,apartment,2,1,1300,"447 Catherine Street  - Ottawa , ON",K1R 6K2,$1796
+Ottawa,town-house,2,2.5,500,"277 Squadron Crescent  - Ottawa , ON",K1K 0S6,$2590
+Ottawa,house,3,2,1500,"560 Buchanan Crescent  - Ottawa , ON",K1J 6H2,$4100
+Ottawa,basement,1,1,1300,"492 Mutual Street  - Ottawa , ON",K1K 1G5,$1600
+Ottawa,apartment,1,1,965,"82 First Avenue  - Ottawa , ON",K1S 2G1,$2295
+Ottawa,private-room,1,2,350,"1220 Prince of Wales Drive  - Ottawa , ON",K2C 1N2,$850
+Ottawa,private-room,1-2,2.5,650,"Harper Avenue  - Ottawa , ON",K1J 1G1,$1300 - $2700
+Ottawa,apartment,3,1,993,"415 Elgin Street  - Ottawa , ON",K2P 1N3,$2580
+Ottawa,private-room,1,1,625,"1 Hillmount Crescent  - Ottawa , ON",K2G 2Y7,$850
+Ottawa,condo,2,2,1050,"313 Saint Patrick Street  - Ottawa , ON",K1N 1E7,$2500
+Ottawa,condo,2,1,800,"124 Guigues Avenue  - Ottawa , ON",K1N 7E1,$2475
+Ottawa,house,2,1,700,"675 Blair Road  - Ottawa , ON",K1J 6N5,$2300
+Ottawa,house,4,2,1000,"159 MacKay Street  - Ottawa , ON",K1M 2J7,$3700
+Ottawa,duplex,1,2.5,1000,"134 Forward Avenue  - Ottawa , ON",K1Y 1L4,$1800
+Ottawa,house,3,1,1800,"134 Forward Avenue  - Ottawa , ON",K1Y 1L4,$3500
+Ottawa,private-room,1,1,1800,"116 Finn Court  - Ottawa , ON",K1V 6A6,$999
+Ottawa,condo,1,2.5,655,"340 Queen Street  - Ottawa , ON",K1R 0C7,$2300
+Ottawa,house,4,2,2250,"629 Southmore Drive West  - Ottawa , ON",K1V 7G1,$3200
+Ottawa,private-room,3,3,900,"106 Donald Street  - Ottawa , ON",K1L 6P9,$1200
+Ottawa,private-room,4,2,950,"770 Brookfield Road  - Ottawa , ON",K1V 8N5,$1125
+Ottawa,condo,2,2,1250,"95 Bronson Avenue  - Ottawa , ON",K1R 0B2,$2700
+Ottawa,house,2,1,1000,"282 Richelieu Avenue  - Ottawa , ON",K1L 7H4,$2700
+Ottawa,condo,2,1,900,"199 Kent Street  - Ottawa , ON",K2P 2A4,$2850
+Ottawa,apartment,2,1,1000,"10 Arthur Street  - Ottawa , ON",K1R 6P9,$1650
+Ottawa,apartment,2,2,86,"376 Fullerton Avenue  - Ottawa , ON",K1K 1L8,$2150
+Ottawa,condo,2,4,555,"1480 Riverside Drive  - Ottawa , ON",K1G 3P4,$3450
+Ottawa,multi-unit,4,2,980,"280 Lévis Avenue  - Ottawa , ON",K1L 6H8,$3900
+Ottawa,house,3,1,759,"3818 Albion Road South  - Ottawa , ON",K1T 1M8,$3550
+Ottawa,private-room,3,1,1600,"1452 Normandy Crescent  - Ottawa , ON",K2C 1P4,$750
+Ottawa,condo,2,2.5,900,"40 Landry Street  - Ottawa , ON",K1L 8B3,$2000
+Ottawa,house,4,2,880,"Alpine Avenue  - Ottawa , ON",K2B 7V8,$4050
+Ottawa,house,4,2.5,2000,"62 Willard Street  - Ottawa , ON",K1S 1T8,$3200
+Ottawa,house,4,1,575,"Parkdale Avenue  - Ottawa , ON",K1Y 1E9,$5250
+Ottawa,multi-unit,3,2,1100,"3050 Huntingdon Court  - Ottawa , ON",K1T 4A8,$2190
+Ottawa,condo,2,1,740,"330 Titan Private  - Ottawa , ON",K2G 0B1,$2500
+Ottawa,apartment,2,2,1000,"309 Cyr Avenue  - Ottawa , ON",K1L 6C9,$1600
+Ottawa,house,3.5,1,660,"816 Chapman Boulevard  - Ottawa , ON",K1G 1R7,$3200
+Ottawa,condo,1,1,285,"255 Bay Street  - Ottawa , ON",K1R 0C5,$2450
+Ottawa,condo,1,1,2500,"1177 Bélanger Avenue  - Ottawa , ON",K1H 1A6,$1975
+Ottawa,town-house,3,1,1100,"135 Dalhousie Street  - Ottawa , ON",K1N 7C2,$2675
+Ottawa,condo,1,1,2200,"200 Rideau Street  - Ottawa , ON",K1N 5X8,$2250
+Ottawa,condo,1,1.5,1100,"805 Carling Avenue  - Ottawa , ON",K2K 2A1,$2200
+Gloucester,town-house,2,1,1153,"Wanaki Road  - Gloucester , ON",Postal code not found,$1400
+Ottawa,condo,1.5,2,650,"45 Holland Avenue  - Ottawa , ON",K1Y 4S3,$1995
+Ottawa,apartment,2,1,650,"100 Isabella Street  - Ottawa , ON",K1S 3N6,$2399
+Ottawa,house,1,2,2600,"636 Rue O'Connor Street  - Ottawa , ON",Postal code not found,$3400
+Ottawa,duplex,3,1,750,"2033 Cornish Street  - Ottawa , ON",K1G 2H5,$2550
+Ottawa,apartment,2,2,1000,"86 Holland Avenue  - Ottawa , ON",K1Y 0Y1,$2900
+Ottawa,house,3,0.5,850,"2303 Lawn Avenue  - Ottawa , ON",K2B 7C2,$2800
+Ottawa,apartment,0.5,2,800,"164 Arthur Street  - Ottawa , ON",K1R 7B2,$1550
+Ottawa,house,4,1,590,"360 Lévis Avenue  - Ottawa , ON",K1L 6H8,$2899
+Ottawa,apartment,3,1,900,"Maitland Avenue  - Ottawa , ON",K2A 4G7,$2400
+Ottawa,apartment,1,1,1600,"67 Marquette Avenue  - Ottawa , ON",K1L 5S2,$1650
+Ottawa,apartment,2,2,500,"172 Russell Avenue  - Ottawa , ON",K1N 6V7,$2600
+Ottawa,apartment,2,3,555,"9 Gilchrist Avenue  - Ottawa , ON",K1Y 0M1,$2950
+Ottawa,house,4,2,300,"119 Riverdale Avenue  - Ottawa , ON",K1S 5H6,$3850
+Ottawa,condo,2,1.5,700,"Winterfell Private  - Ottawa , ON",K1G 4K7,$2500
+Ottawa,duplex,3,1.5,1600,"Alta Vista Drive  - Ottawa , ON",K1V 7T5,$2675
+Ottawa,private-room,1,1,1260,"2415 Southvale Crescent  - Ottawa , ON",K1G 3P8,$1200
+Ottawa,apartment,0,1,730,"190 Powell Avenue  - Ottawa , ON",K1S 1Z3,$1300
+Ottawa,apartment,2,1,1600,"120 Saint Andrew Street  - Ottawa , ON",Postal code not found,$2050
+Ottawa,apartment,1,1,2100,"394 Montréal Road  - Ottawa , ON",K1K 3A1,$1400
+Ottawa,condo,1,1,4000,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$2200
+Ottawa,apartment,0.5,1,950,"318 Cooper Street  - Ottawa , ON",K2P 0G7,$1245
+Ottawa,apartment,2,1,500,"247 Flora Street  - Ottawa , ON",K1R 5P2,$2050
+Ottawa,basement,1,1,1200,"243 Granville Street  - Ottawa , ON",K1L 6B3,$1750
+Ottawa,private-room,1,2,750,"325 Somerset Street East  - Ottawa , ON",K1N 6V9,$975
+Ottawa,condo,2,3,625,"238 Besserer Street  - Ottawa , ON",K1N 7M7,$2900
+Ottawa,house,3,2,406,"174 Bolton Street  - Ottawa , ON",K1N 5B3,$3000
+Ottawa,house,3,2,670,"26 Clegg Street  - Ottawa , ON",K1S 1C4,$2600
+Ottawa,condo,2,1,650,"179 George Street  - Ottawa , ON",K1N 1J8,$3200
+Ottawa,condo,2,1,1780,"203 Catherine Street  - Ottawa , ON",K2P 2G8,$2700
+Ottawa,house,3,1,1600,"25 Wolff Street  - Ottawa , ON",K1L 6P9,$2950
+Ottawa,condo,1,1.5,1200,"200 Rideau Street  - Ottawa , ON",K1N 5X8,$2195
+Ottawa,apartment,3,2.5,800,"387 Saint Denis Street  - Ottawa , ON",Postal code not found,$2750
+Ottawa,town-house,3,1,1050,"26 Pondside Private  - Ottawa , ON",K1K 2N0,$2800
+Ottawa,multi-unit,1,1,800,"36 Gwynne Avenue  - Ottawa , ON",K1Y 4X2,$2000
+Ottawa,apartment,0,1,2400,"1 Flora Street  - Ottawa , ON",K1R 5P2,$2100
+Ottawa,apartment,2,2,1200,"334 Nepean Street  - Ottawa , ON",K2P 0B4,$2400
+Ottawa,apartment,3,2,1209,"325 Somerset Street East  - Ottawa , ON",K1N 6V9,$2400
+Ottawa,house,3,3.5,1209,"3 Calvert Street  - Ottawa , ON",K2G 2Y7,$3449
+Ottawa,condo,2,1,1074,"805 Carling Avenue  - Ottawa , ON",K2K 2A1,$2800
+Ottawa,house,3,1.5,630,"101 Belmont Avenue  - Ottawa , ON",K1S 1T8,$5900
+Ottawa,apartment,3,1,682,"296 Bay Street  - Ottawa , ON",K1R 5J9,$2700
+Gloucester,condo,2,1.5,3300,"1020 Redtail Private  - Gloucester , ON",K1K 1C9,$1900
+Ottawa,apartment,3,1,200,"1751 Heron Road  - Ottawa , ON",K1H 6P8,$2385
+Ottawa,apartment,3,1,600,"378 Saint Denis Street  - Ottawa , ON",Postal code not found,$2850
+Ottawa,condo,1,2,1350,"101 Queen Street  - Ottawa , ON",K1P 1A4,$1300
+Ottawa,apartment,2,1,600,"Jolliet Avenue  - Ottawa , ON",K1L 5S2,$2725
+Ottawa,condo,2,2,1275,"199 Slater Street  - Ottawa , ON",K1P 0C8,$3550
+Ottawa,studio,0,2,520,"550 Rue Wilbrod Street  - Ottawa , ON",K1N 9M3,$1700
+Ottawa,house,4,1,750,"317 Summit Avenue  - Ottawa , ON",K1H 5M9,$4000
+Ottawa,apartment,0,1,1000,"1751 Heron Road  - Ottawa , ON",K1H 6P8,$2385
+Ottawa,house,4,2,1100,"41 Cedar Road  - Ottawa , ON",K1J 6N3,$4900
+Ottawa,condo,1,1,560,"360 McLeod Street  - Ottawa , ON",K2P 1A4,$2400
+Ottawa,apartment,2,1,700,"838 Kirkwood Avenue  - Ottawa , ON",K1Z 7L8,$1650
+Ottawa,house,3,1,658,"2417 Howland Avenue  - Ottawa , ON",K1G 1C7,$3200
+Ottawa,apartment,1,1,623,"373 Echo Drive  - Ottawa , ON",K1S 1N3,$1950
+Ottawa,condo,1.5,1,656,"805 Carling Avenue  - Ottawa , ON",K2K 2A1,$2400
+Ottawa,apartment,2,3,650,"1494 Lepage Avenue  - Ottawa , ON",K1Z 8M7,$1639
+Ottawa,basement,3,1,1250,"1452 Normandy Crescent  - Ottawa , ON",K2C 1P4,$2300
+Ottawa,apartment,1,1,900,"234 Rideau Street  - Ottawa , ON",K1N 0A9,$2150
+Ottawa,house,4,1,150,"579 Duff Crescent  - Ottawa , ON",K1J 6H2,$2100
+Ottawa,condo,1,1,1200,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$2200
+Ottawa,condo,1,1,625,"179 George Street  - Ottawa , ON",K1N 1J8,$1900
+Ottawa,multi-unit,2,1,725,"556 Churchill Avenue North  - Ottawa , ON",K1Z 5K9,$2350
+Ottawa,condo,1,1,1100,"255 Bay Street  - Ottawa , ON",K1R 0C5,$2450
+Ottawa,apartment,1,2,1600,"421 Nelson Street  - Ottawa , ON",K1N 6S3,$1700
+Ottawa,apartment,2,1,120,"348 Shakespeare Street  - Ottawa , ON",K1L 6B3,$1795
+Ottawa,condo,1,1,850,"111 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$2575
+Ottawa,condo,2,1,600,"238 Besserer Street  - Ottawa , ON",K1N 7M7,$2700
+Ottawa,apartment,1,2,600,"371 MacKay Street  - Ottawa , ON",K1M 1M2,$1800
+Ottawa,basement,1.5,2,1100,"411 Leighton Terrace  - Ottawa , ON",K1Z 6V7,$2200
+Ottawa,apartment,3,4,969,"Columbus Avenue  - Ottawa , ON",K1K 4E6,$3600
+Ottawa,town-house,2,1,2900,"407 MacKay Street  - Ottawa , ON",K1M 1M2,$3100
+Ottawa,private-room,4,2,600,"144 Osgoode Street  - Ottawa , ON",K1N 8A4,$717
+Ottawa,private-room,2,1,900,"144 Osgoode Street  - Ottawa , ON",K1N 8A4,$718
+Ottawa,apartment,2,2,2600,"329 Rue Wilbrod Street  - Ottawa , ON",K1N 6M3,$2400
+Ottawa,town-house,3,1.5,750,"665 Hochelaga Street  - Ottawa , ON",K1K 4E5,$2350
+Ottawa,basement,1,1,550,"1319 Avenue P  - Ottawa , ON",K1K 4H4,$1700
+Ottawa,house,3,1,700,"Sherman Drive  - Ottawa , ON",K2C 2J2,$3200
+Ottawa,apartment,3,1,450,"371 Nelson St  - Ottawa , ON",K1N 6P2,$2400
+Ottawa,apartment,1-2,1,450,"355 Nelson Street  - Ottawa , ON",K1N 6P2,$1800 - $2400
+Ottawa,apartment,1,1,1000,"58 Somerset Street West  - Ottawa , ON",K2P 0H3,$1475
+Ottawa,condo,1,1.5,1600,"11 Des Oblats Avenue  - Ottawa , ON",K1S 5P4,$2200
+Ottawa,apartment,2,2,2700,"Marier Avenue  - Ottawa , ON",K1L 6C4,$2500
+Ottawa,condo,1,1,750,"200 Besserer Street  - Ottawa , ON",K1N 7M7,$1800
+Ottawa,apartment,4,1,2200,"453 Mutual Street  - Ottawa , ON",K1K 1G5,$2550
+Ottawa,condo,2,4,910,"200 Rideau Street  - Ottawa , ON",K1N 5X8,$2600
+Ottawa,apartment,1,1.5,1150,"304 Lanark Avenue  - Ottawa , ON",K1Z 1G4,$1900
+Ottawa,apartment,2.5,1,2500,"1251 Maitland Avenue  - Ottawa , ON",K2C 4E2,$2295
+Ottawa,house,3.5,4,1750,"3868 Crowsnest Avenue  - Ottawa , ON",K1V 1V5,$2900
+Ottawa,private-room,1,3,700,"Alta Vista Drive  - Ottawa , ON",K1V 7T5,$1350
+Ottawa,duplex,3,1,2000,"964 Bakervale Drive  - Ottawa , ON",K1Z 7W8,$2250
+Ottawa,house,3,3.5,1300,"51 Hamilton Avenue North  - Ottawa , ON",K1Y 2Z5,$3900
+Ottawa,town-house,4,2,2400,"255 Garneau Street  - Ottawa , ON",K1L 5S2,$3850
+Ottawa,condo,1,1.5,1350,"340 Queen Street  - Ottawa , ON",K1R 0C7,$2300
+Gloucester,house,4,2,701,"270 Avro Circle  - Gloucester , ON",Postal code not found,$3700
+Nepean,private-room,5,1,1600,"66 Woodfield Drive  - Nepean , ON",K2G 0A2,$830
+Ottawa,house,3,1,2200,"448 Roger Road  - Ottawa , ON",K1H 1A2,$3500
+Ottawa,condo,2,1,1000,"324 Laurier Avenue West  - Ottawa , ON",K1P 0A4,$2850
+Ottawa,apartment,2,1,1100,"Athlone Avenue  - Ottawa , ON",K1Z 5K9,$2400
+Ottawa,house,1,1,1800,"636 Rue O'Connor Street  - Ottawa , ON",Postal code not found,$3400
+Ottawa,multi-unit,3,1.5,1112,"713 Tweedsmuir Avenue  - Ottawa , ON",K1Z 8R9,$3200
+Ottawa,apartment,2.5,4,1200,"Columbus Avenue  - Ottawa , ON",K1K 4E6,$2950
+Ottawa,apartment,2,1,790,"2 Empress Avenue  - Ottawa , ON",K1R 7G2,$2300
+Ottawa,apartment,2,1,670,"505 Saint Laurent Boulevard  - Ottawa , ON",Postal code not found,$2500
+Ottawa,private-room,5,2,1500,"177 Hopewell Avenue  - Ottawa , ON",K1S 5R2,$950
+Ottawa,duplex,2,1,650,"709 Carson's Road  - Ottawa , ON",K1K 4R3,$1695
+Ottawa,condo,1,1,1600,"340 Queen Street  - Ottawa , ON",K1R 0C7,$2300
+Ottawa,apartment,2,1,1100,"Saint Laurent Boulevard  - Ottawa , ON",Postal code not found,$1500
+Ottawa,apartment,2,2.5,705,"82 First Avenue  - Ottawa , ON",K1S 2G1,$2295
+Ottawa,apartment,2,2,592,"118 Lower Charlotte Street  - Ottawa , ON",K1N 8Z7,$2699
+Ottawa,apartment,1,1.5,1200,"327 Catherine Street  - Ottawa , ON",K1R 5T3,$2100
+Ottawa,town-house,3.5,1,900,"5 Santa Cruz Private  - Ottawa , ON",K1G 3Z6,$2650
+Ottawa,apartment,2,3.5,2000,"995 North River Road  - Ottawa , ON",K1K 4E6,$2395
+Ottawa,town-house,2,1,2000,"46 Putman Avenue  - Ottawa , ON",K1M 1E9,$2595
+Ottawa,apartment,1,1,2000,"211 Granville Street  - Ottawa , ON",K1L 6B3,$1500
+Ottawa,house,4,1,1900,"2177 Haig Drive  - Ottawa , ON",K1G 2H7,$3250
+Ottawa,apartment,1,1,700,"73 William Street  - Ottawa , ON",K1N 1K1,$1950
+Ottawa,apartment,1,1.5,1227,"11 Geneva Street  - Ottawa , ON",K1Y 0B8,$1800
+Ottawa,apartment,1,1,823,"457 Booth Street  - Ottawa , ON",K1R 7K7,$1400
+Ottawa,condo,2,3.5,2842,"195 Besserer Street  - Ottawa , ON",K1N 7M7,$2580
+Ottawa,town-house,3,3.5,3500,"1502 Lepage Avenue  - Ottawa , ON",K1Z 8M7,$3500
+Ottawa,condo,1.5,4,822,"201 Parkdale Avenue  - Ottawa , ON",K1Y 4V8,$2200
+Ottawa,house,3,2,2500,"190 Richmond Road  - Ottawa , ON",K1Z 6W6,$6000
+Ottawa,house,3,3.5,1000,"190 Richmond Road  - Ottawa , ON",K1Z 6W6,$6000
+Ottawa,house,5,1,2000,"430 Parkdale Avenue  - Ottawa , ON",K1Y 1H3,$4600
+Ottawa,apartment,0-4.5,3.5,840,"122 Russell Avenue  - Ottawa , ON",K1N 6V7,$1350 - $4400
+Ottawa,house,5,2,635,"3364 McCarthy Road  - Ottawa , ON",K1V 0X7,$3000
+Ottawa,apartment,3,1,820,"346 Tweedsmuir Avenue  - Ottawa , ON",K1Z 5N4,$2800
+Ottawa,house,4,1,1000,"25 Claudet Crescent  - Ottawa , ON",K1G 3W3,$3495
+Ottawa,condo,2,2.5,1227,"Lett Street  - Ottawa , ON",K1R 0A7,$3500
+Ottawa,apartment,2,1,500,"393 Daly Avenue  - Ottawa , ON",K1N 6H3,$2250
+Ottawa,apartment,2,1.5,650,"391 Daly Avenue  - Ottawa , ON",K1N 6H3,$2150
+Ottawa,house,4.5,1,1000,"117 Finn Court  - Ottawa , ON",K1V 6A6,$3500
+Ottawa,apartment,1,1.5,2000,"204 Bolton Street  - Ottawa , ON",K1N 5B3,$1700
+Ottawa,condo,2,1,1200,"470 Laurier Avenue West  - Ottawa , ON",K1R 7Y7,$2450
+Ottawa,apartment,2,1,1000,"281 Clare Street  - Ottawa , ON",K1Z 7C9,$1900
+Ottawa,apartment,2,3,1100,"56 Steele Park Private  - Ottawa , ON",K1J 7P6,$2950
+Ottawa,apartment,1.5,2,700,"126 Second Avenue  - Ottawa , ON",K1S 2H2,$2300
+Ottawa,apartment,1,1,900,"255 Bay Street  - Ottawa , ON",K1R 0C5,$2200
+Ottawa,house,5,2,710,"1945 Naskapi Drive  - Ottawa , ON",K1J 8M9,$4000
+Ottawa,house,3,1,978,"3048 Mannering Court  - Ottawa , ON",K1T 4A8,$2900
+Ottawa,apartment,2,1,813,"52 Saint Andrew Street  - Ottawa , ON",Postal code not found,$2200
+Nepean,house,3,1,622,"Withrow Avenue  - Nepean , ON",K2G 2S5,$4650
+Ottawa,condo,1,1,900,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$2700
+Ottawa,private-room,0,2,611,"200 Hopewell Avenue  - Ottawa , ON",K1S 5R2,$649
+Ottawa,condo,1,1.5,591,"340 Queen Street  - Ottawa , ON",K1R 0C7,$2200
+Ottawa,apartment,0,1,705,"331 Catherine Street  - Ottawa , ON",K1R 5T3,$1700
+Ottawa,condo,1.5,1,596,"135 Springfield Road  - Ottawa , ON",K1M 1C8,$2200
+Ottawa,apartment,3,1,850,"53 Arthur Street  - Ottawa , ON",K1R 6P9,$2500
+Ottawa,condo,3,2,600,"221 Clarence Street  - Ottawa , ON",K1N 5T7,$2600
+Ottawa,condo,1,4,300,"805 Carling Avenue  - Ottawa , ON",K2K 2A1,$2500
+Ottawa,private-room,1,1,850,"262 Emond Street  - Ottawa , ON",K1L 7S6,$899
+Ottawa,house,3,2,624,"37 Seneca Street  - Ottawa , ON",K1S 5R2,$3500
+Ottawa,private-room,0.5,1,1,"2551 Southvale Crescent  - Ottawa , ON",K1B 4L5,$650
+Ottawa,house,3,3,1000,"78 Norman Street  - Ottawa , ON",K1S 4N6,$3960
+Ottawa,house,7,2.5,500,"1371 Kilborn Avenue  - Ottawa , ON",K1H 7T3,$4950
+Ottawa,house,1.5,1,947,"1055 Somerset Street West  - Ottawa , ON",K1Y 2H4,$1765
+Ottawa,condo,2,1,,"235 Kent Street  - Ottawa , ON",K2P 2A4,$2650
+Ottawa,apartment,1,1,,"305 Rideau Street  - Ottawa , ON",K1N 5Y4,$1450
+Ottawa,house,6,1,,"79 Stewart Street  - Ottawa , ON",K1N 7N1,$850
+Ottawa,multi-unit,3,1,,"189 Stanley Avenue  - Ottawa , ON",K1M 2J7,$3400
+Ottawa,apartment,1,2,,"38 Bruyère Street  - Ottawa , ON",K1N 5C8,$2600
+Ottawa,condo,1.5,3,,"857 Blackcomb Private  - Ottawa , ON",K1G 1A2,$2000
+Ottawa,condo,0,1,,"530 De Mazenod Avenue  - Ottawa , ON",Postal code not found,$1700
+Ottawa,condo,1,1,,"195 Besserer Street  - Ottawa , ON",K1N 7M7,$1950
+Ottawa,shared-room,1,2,,"111 Cooper Street  - Ottawa , ON",K2P 1J2,$835
+Ottawa,apartment,1,1,,"127 Third Avenue  - Ottawa , ON",K1S 3V8,$2200
+Ottawa,condo,2.5,1,,"1480 Riverside Drive  - Ottawa , ON",K1G 3P4,$5200
+Ottawa,house,5,1,,"Withrow Avenue  - Ottawa , ON",K2G 2S5,$3500
+Ottawa,apartment,2,2,,"177 Cathcart Street  - Ottawa , ON",K1N 5C1,$2300
+Ottawa,apartment,1,1,,"638 Center Street  - Ottawa , ON",K1K 4S5,$1100
+Ottawa,house,5,1.5,,"1220 Prince of Wales Drive  - Ottawa , ON",K2C 1N2,$900
+City not found,apartment,2,1.5,,"336 Joffre-Bélanger Way  - Ottawa , ON",K1L 5C6,$2200
+Ottawa,multi-unit,1,2.5,,"28 Stirling Avenue  - Ottawa , ON",K1Y 1P8,$2350
+Ottawa,apartment,1,2,,"464 Rue Wilbrod Street  - Ottawa , ON",K1N 6M7,$1800
+Ottawa,house,3,1,,"103 James Street  - Ottawa , ON",K2P 2A8,$4200
+Ottawa,apartment,3,1,,"1249 Joyce Crescent  - Ottawa , ON",K2C 0C3,$2500
+Ottawa,house,3.5,1,,"57 Adeline Street  - Ottawa , ON",K1S 4M1,$2500
+Ottawa,house,3.5,3.5,,"59 Adeline Street  - Ottawa , ON",K1S 4M1,$2500
+Ottawa,town-house,2,1,,"50 Holmwood Avenue  - Ottawa , ON",K1S 5H6,$3300
+Ottawa,apartment,2,1,,"304 Elmgrove Avenue  - Ottawa , ON",K1Z 5H6,$2650
+Ottawa,apartment,1,2,,"340 Queen Street  - Ottawa , ON",K1R 0C7,$2200
+Ottawa,condo,1,1.5,,"98 Richmond Road  - Ottawa , ON",K1Z 6V7,$2450
+Ottawa,condo,1,1.5,,"101 Queen Street  - Ottawa , ON",K1P 1A4,$2500
+Ottawa,house,4,0.5,,"44 Byron Avenue  - Ottawa , ON",K1Y 0X4,$9000
+Ottawa,bachelor,1,2,,"61 Parent Avenue  - Ottawa , ON",K1N 5C8,$1300
+Ottawa,apartment,1,1,,"305 Rideau Street  - Ottawa , ON",K1N 5Y4,$1890
+Ottawa,town-house,2,2,,"800 Mikinak Road  - Ottawa , ON",K1K 0S6,$2200
+Ottawa,house,3.5,1,,"59 Adeline Street  - Ottawa , ON",K1S 4M1,$2500
+Ottawa,house,2.5,1,,"204 Saint Patrick Street  - Ottawa , ON",K1N 1E7,$2995
+Ottawa,condo,0.5,1,,"200 Lett Street  - Ottawa , ON",K1R 0A7,$1997
+Ottawa,condo,2.5,1,,"90 George Street  - Ottawa , ON",K1N 1K1,$3950
+Ottawa,condo,1,1,,"255 Bay Street  - Ottawa , ON",K1R 0C5,$2350
+Ottawa,apartment,2,1,,"245 Sunnyside Avenue  - Ottawa , ON",K1S 0R4,$3300
+Ottawa,apartment,2,1,,"176 Russell Avenue  - Ottawa , ON",K1N 6V7,$2200
+Ottawa,private-room,2,0.5,,"698 Bronson Avenue  - Ottawa , ON",K1R 6K2,$1050
+Ottawa,apartment,1,1,,"111 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$2000
+Ottawa,basement,3,1,,"1264 Field Street  - Ottawa , ON",K2C 2S2,$2400
+Ottawa,condo,1,1.5,,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$1895
+Ottawa,condo,1,1,,"152 York Street  - Ottawa , ON",K1N 5T9,$2250
+Ottawa,condo,1.5,1.5,,"255 Bay Street  - Ottawa , ON",K1R 0C5,$1950
+Ottawa,condo,0.5,1,,"485 Richmond Road  - Ottawa , ON",K2A 0G2,$1850
+Ottawa,cabin,4,1,,"1090 Ambleside Drive  - Ottawa , ON",K2B 5E6,$1495
+Ottawa,condo,1.5,1,,"805 Carling Avenue  - Ottawa , ON",K2K 2A1,$2900
+Ottawa,condo,3,2,,"1285 Cahill Drive  - Ottawa , ON",K1V 1J6,$2300
+Ottawa,studio,0,2,,"211 Besserer Street  - Ottawa , ON",K1N 7M7,$1700
+Ottawa,duplex,3,1,,"Greenboro Crescent  - Ottawa , ON",K1V 7R8,$2900
+Ottawa,house,3,1,,"229 Augusta Street  - Ottawa , ON",K1N 6K5,$3700
+Ottawa,condo,0,1,,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$1800
+Ottawa,condo,2,1,,"1380 Prince of Wales Drive  - Ottawa , ON",K2C 3N5,$2795
+Ottawa,private-room,1,1,,"173 Henderson Avenue  - Ottawa , ON",K1N 0A6,$750
+Ottawa,apartment,3,1,,"3 Second Ave  - Ottawa , ON",K1S 2H2,$3150
+Ottawa,private-room,1,1,,"Featherston Drive  - Ottawa , ON",K1H 6P4,$900
+Ottawa,multi-unit,1,0.5,,"24 Champlain Avenue  - Ottawa , ON",K1M 1E9,$800
+Ottawa,studio,0.5,1,,"280 Laurier Avenue East  - Ottawa , ON",K1N 7Z2,$1800
+Ottawa,condo,1,2,,"242 Rideau Street  - Ottawa , ON",K1N 0A9,$2000
+Ottawa,apartment,1.5,1.5,,"205 Bolton Street  - Ottawa , ON",K1N 5B3,$1995
+Ottawa,house,3,2,,"168 Bruyère Street  - Ottawa , ON",K1N 5C1,$2150
+Ottawa,apartment,2,1,,"192 Bronson Avenue  - Ottawa , ON",K1R 6P3,$2450
+Ottawa,apartment,0.5,1,,"770 Brookfield Road  - Ottawa , ON",K1V 8N5,$1125
+Ottawa,apartment,2.5,1,,"385 Rue Wilbrod Street  - Ottawa , ON",K1N 6M3,$2495
+Ottawa,private-room,3,1,,"305 Rideau Street  - Ottawa , ON",K1N 5Y4,$1530
+Ottawa,town-house,4,3,,"3802 Crowsnest Avenue  - Ottawa , ON",K1V 0P5,$3000
+Ottawa,apartment,2,3,,"250 Besserer Street  - Ottawa , ON",K1N 5Y5,$2450
+Gloucester,private-room,1,1,,"1536 Beaverpond Drive  - Gloucester , ON",K1B 3R9,$625 - $675
+Ottawa,basement,1,2,,"Hintonburg Place  - Ottawa , ON",K1R 6K7,$2500
+Ottawa,apartment,1,2,,"75 Heney Street  - Ottawa , ON",K1N 8Z7,$3000
+Ottawa,private-room,1,1,,"386 Chapel Street  - Ottawa , ON",K1N 7Z2,$850
+Nepean,house,3,1,,"7 TOLCHACO COURT  - Nepean , ON",K2J 6S9,$2450
+Ottawa,town-house,3,1,,"2245 MARBLE CRESCENT  - Ottawa , ON",K1V 6J3,$2400
+Ottawa,private-room,1,5,,"386 Chapel Street  - Ottawa , ON",K1N 7Z2,$850
+Ottawa,private-room,6,1.5,,"Somerset Street East  - Ottawa , ON",K1N 6V9,$660
+Ottawa,apartment,2,2,,"202 CUMBERLAND STREET UNIT#4  - Ottawa , ON",K1N 5J3,$2200
+Ottawa,apartment,1,3.5,,"770 Brookfield Road  - Ottawa , ON",K1V 8N5,$1200
+Ottawa,condo,1,1,,"560 Rideau Street  - Ottawa , ON",K1N 6A2,$2100
+Ottawa,apartment,2,1,,"385 Rue Wilbrod Street  - Ottawa , ON",K1N 6M3,$2495
+Ottawa,apartment,4,1,,"122 Daly Avenue  - Ottawa , ON",K1N 7K1,$3800
+Ottawa,house,3,2,,"136 Hamilton Avenue North  - Ottawa , ON",K1Y 1H3,$3400
+Ottawa,apartment,4,1,,"350 Montgomery Street  - Ottawa , ON",K1N 7W8,$2910
+Ottawa,house,5.5,1,,"876 Denison Crescent  - Ottawa , ON",K2A 4G7,$4800
+Ottawa,apartment,1,1,,"256 Rideau Street  - Ottawa , ON",K1N 0A9,$1500
+Ottawa,condo,1,2,,"575 Byron Avenue  - Ottawa , ON",K2A 0R3,$2000
+Ottawa,private-room,2,1,,"2045 Carling Avenue  - Ottawa , ON",K2A 1H2,$850
+Ottawa,apartment,2,1,,"99 Fifth Avenue  - Ottawa , ON",K1S 2L1,$2734
+Ottawa,condo,1,2,,"242 Rideau Street  - Ottawa , ON",K1N 0A9,$2050
+Ottawa,private-room,3,3,,"Hime Crescent  - Ottawa , ON",K1G 5N6,$1300
+Ottawa,loft,2,1,,"1225 Saint Paul Avenue  - Ottawa , ON",Postal code not found,$2100
+Ottawa,apartment,1,1,,"121 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$2010
+Ottawa,house,4,3,,"21 Perkins Street  - Ottawa , ON",K1R 7G5,$4000
+Ottawa,bachelor,1,2,,"106 King Edward Avenue  - Ottawa , ON",K1N 5J3,$1470
+Ottawa,bachelor,1,2,,"106 King Edward Avenue  - Ottawa , ON",K1N 5J3,$1470
+Ottawa,condo,2,4,,"90 LANDRY STREET UNIT#907  - Ottawa , ON",K1L 7X5,$2600
+Ottawa,house,4,2,,"58 STEVENSON AVENUE  - Ottawa , ON",K1Z 7K5,$4500
+Ottawa,condo,2,1.5,,"211 BESSERER STREET UNIT#2809  - Ottawa , ON",K1N 7M7,$2700
+Ottawa,condo,0,2,,"256 RIDEAU STREET UNIT#2804  - Ottawa , ON",K1N 0A9,$2150
+Gloucester,town-house,3,1,,"147 CARWOOD CIRCLE  - Gloucester , ON",Postal code not found,$2399
+Ottawa,condo,2,1,,"19 Melrose Avenue  - Ottawa , ON",K1Y 2Y4,$4190
+Gloucester,town-house,2,1,,"122 GATESTONE PRIVATE  - Gloucester , ON",K1J 1G4,$2000
+Gloucester,house,4,2,,"1676 SAXONY CRESCENT  - Gloucester , ON",K1B 3R9,$2860
+Ottawa,condo,2,5,,"200 RIDEAU STREET UNIT#2306  - Ottawa , ON",K1N 5X8,$3500
+Ottawa,apartment,4,1,,"2146 Lambeth Walk  - Ottawa , ON",K2C 1H6,$2800
+Ottawa,condo,2,2,,"19 MELROSE AVENUE UNIT#202  - Ottawa , ON",K1Y 2Y4,$4190
+Ottawa,condo,1,2,,"280 CRICHTON STREET UNIT#209  - Ottawa , ON",K1M 2H6,$2000
+Ottawa,apartment,2,2.5,,"58 FLORENCE STREET UNIT#8  - Ottawa , ON",K2P 2B1,$2395
+Ottawa,condo,0,1,,"203 CATHERINE STREET UNIT#707  - Ottawa , ON",K2P 2G8,$1700
+Ottawa,condo,2,4,,"401 GOLDEN AVENUE UNIT#505  - Ottawa , ON",K2A 4C9,$2750
+Ottawa,house,5,1,,"358 SOMERSET STREET E  - Ottawa , ON",K1N 6W4,$8000
+Ottawa,apartment,2,1,,"58 FLORENCE STREET UNIT#4  - Ottawa , ON",K2P 2B1,$2800
+Ottawa,condo,2,1,,"179 GEORGE STREET UNIT#205  - Ottawa , ON",K1N 1J8,$2400
+Ottawa,condo,2,2,,"323 Winona  - Ottawa , ON",K1Z 5H6,$2250
+Ottawa,town-house,4,3,,"4586 Carrington Place  - Ottawa , ON",K1B 1B1,$2450
+Ottawa,apartment,1,1,,"58 FLORENCE STREET UNIT#1  - Ottawa , ON",K2P 2B1,$2295
+Ottawa,house,3,4,,"32 LEONARD AVENUE  - Ottawa , ON",K1S 5R4,$4000
+Ottawa,house,4,1,,"354 JEAN TALON STREET  - Ottawa , ON",K1L 6N5,$2399
+Ottawa,apartment,1,1,,"466 O'CONNOR STREET UNIT#1B  - Ottawa , ON",K1S 3N6,$1500
+Ottawa,apartment,1,1,,"58 FLORENCE STREET UNIT#9  - Ottawa , ON",K2P 2B1,$1995
+Ottawa,town-house,3,1,,"27 PRESTON STREET  - Ottawa , ON",K1R 6N2,$2995
+Ottawa,apartment,3,1,,"681 EDISON AVENUE UNIT#H  - Ottawa , ON",K1Z 5G5,$2975
+Ottawa,apartment,1,1,,"58 FLORENCE STREET UNIT#7  - Ottawa , ON",K2P 2B1,$2295
+Ottawa,house,5,3,,"485 HARTLEIGH AVENUE  - Ottawa , ON",K2B 7H1,$5950
+Ottawa,apartment,1,2,,"280 CRICHTON STREET UNIT#206  - Ottawa , ON",K1M 2H6,$2600
+Ottawa,house,3,2,,"229 AUGUSTA STREET  - Ottawa , ON",K1N 6K5,$3500
+Ottawa,house,3,4,,"56 STIRLING AVENUE  - Ottawa , ON",K1Y 1P8,$3000
+Ottawa,condo,1,3,,"195 BESSERER STREET UNIT#506  - Ottawa , ON",K1N 7M7,$1900
+Ottawa,condo,1,1,,"224 LYON STREET N UNIT#1603  - Ottawa , ON",K1R 7X6,$2100
+Ottawa,apartment,2,3,,"100 KING EDWARD AVENUE UNIT#6  - Ottawa , ON",K1N 5J3,$1995
+Gloucester,house,4,3.5,,"17 ROTHWELL DRIVE  - Gloucester , ON",K1J 7C2,$3200
+Ottawa,apartment,2,3,,"4B HURON AVENUE N UNIT#2  - Ottawa , ON",K1Y 3A4,$2950
+Ottawa,house,4,4,,"1120 FIELD STREET  - Ottawa , ON",K2C 2R5,$2800
+Ottawa,house,5,2,,"118 FINN COURT  - Ottawa , ON",K1V 6A6,$3999
+Gloucester,house,4,1,,"2876 TRESA COURT  - Gloucester , ON",K1T 4A8,$2750
+Ottawa,condo,1,5,,"255 Bay Street  - Ottawa , ON",K1R 0C5,$2300
+Ottawa,apartment,3,1,,"4 HURON AVENUE N UNIT#A  - Ottawa , ON",K1Y 3A4,$4195
+Ottawa,house,4,4,,"302 Byron Avenue  - Ottawa , ON",K1Z 6B9,$4500
+Ottawa,town-house,3,3,,"52 OASIS PRIVATE  - Ottawa , ON",K1K 2N0,$2495
+Ottawa,house,4,3,,"440 ROOSEVELT AVENUE UNIT#A  - Ottawa , ON",K2A 2A8,$5500
+Gloucester,town-house,3,1,,"1525 ROSEBELLA AVENUE UNIT#B  - Gloucester , ON",K1T 1N6,$2595
+Gloucester,condo,2,1,,"702 KIZIS PRIVATE  - Gloucester , ON",Postal code not found,$2000
+Ottawa,house,4,1,,"285 KIRCHOFFER AVENUE  - Ottawa , ON",K2A 1Y5,$4750
+Ottawa,apartment,3,2,,"679 ROOSEVELT AVENUE UNIT#3  - Ottawa , ON",K2A 2A8,$2150
+Nepean,house,5,2,,"33 WALLFORD WAY  - Nepean , ON",K2E 5Z7,$2600
+Gloucester,town-house,3,1,,"515 PIMIWIDON STREET  - Gloucester , ON",Postal code not found,$3100
+Ottawa,house,3,1,,"815 NORTON AVENUE  - Ottawa , ON",K2B 7H6,$3300
+Ottawa,apartment,1,2,,"815 NORTON AVENUE UNIT#B  - Ottawa , ON",K2B 7H6,$1600
+Ottawa,apartment,2,2,,"295 ST ANDREW STREET UNIT#2  - Ottawa , ON",K1N 9E8,$2250
+Ottawa,apartment,1,3,,"817 NORTON AVENUE UNIT#B  - Ottawa , ON",K2B 7H6,$1600
+Ottawa,house,2,2,,"229 POWELL AVENUE UNIT#1  - Ottawa , ON",K1S 1Z3,$2600
+Ottawa,house,3,1,,"1296 RANDALL AVENUE  - Ottawa , ON",K1H 8A7,$3300
+Ottawa,apartment,1,2,,"430 Parkdale Avenue  - Ottawa , ON",K1Y 1H3,$1895
+Ottawa,apartment,1,1,,"4 CHAMPLAIN AVENUE UNIT#1  - Ottawa , ON",K1M 1E9,$1535
+Ottawa,condo,2,1,,"255 ARGYLE AVENUE UNIT#PH1  - Ottawa , ON",K2P 1Z4,$4000
+Ottawa,condo,2,3,,"195 BESSERER STREET UNIT#1902  - Ottawa , ON",K1N 7M7,$2700
+Ottawa,town-house,3,2,,"296 BESSERER STREET  - Ottawa , ON",K1N 1J3,$3250
+Ottawa,apartment,2,1,,"4 CHAMPLAIN AVENUE UNIT#4  - Ottawa , ON",K1M 1E9,$2400
+Ottawa,condo,1,2,,"1433 WELLINGTON AVENUE UNIT#309  - Ottawa , ON",Postal code not found,$2100
+Ottawa,condo,1,2,,"110 RIDEAU TERRACE TERRACE UNIT#2  - Ottawa , ON",K1M 1B2,$2350
+Ottawa,apartment,1,4,,"4 CHAMPLAIN AVENUE UNIT#2  - Ottawa , ON",K1M 1E9,$1950
+Ottawa,house,3,5,,"284 CHURCHILL AVENUE N  - Ottawa , ON",K1Z 1A6,$3000
+Gloucester,house,4,4,,"12 DAVIDSON DRIVE  - Gloucester , ON",K1J 6N5,$4200
+Ottawa,house,5,5,,"18 WOODLAWN AVENUE  - Ottawa , ON",K1S 5A7,$3300
+Ottawa,apartment,3,2,,"375 MACKAY STREET UNIT#2  - Ottawa , ON",K1M 1M2,$2300
+Ottawa,apartment,3,4,,"308 PRESLAND ROAD UNIT#A  - Ottawa , ON",K1J 9L9,$2300
+Ottawa,house,3,2,,"184 DUFFERIN ROAD  - Ottawa , ON",K1M 2H3,$3550
+Ottawa,house,3,3,,"370B ROOSEVELT AVENUE  - Ottawa , ON",K2A 2A8,$5000
+Nepean,house,4,2,,"246 MADHU CRESCENT  - Nepean , ON",Postal code not found,$5300
+Nepean,town-house,3,4,,"144 MONTAUK PRIVATE  - Nepean , ON",Postal code not found,$3500
+Ottawa,house,5,3,,"281 KIRCHOFFER AVENUE  - Ottawa , ON",K2A 1Y5,$6000
+Ottawa,house,3,2,,"182 HICKORY STREET  - Ottawa , ON",K1V 1R6,$3500
+Ottawa,house,4,2,,"208 COWLEY AVENUE  - Ottawa , ON",K1Y 0E8,$5950
+Ottawa,condo,2,1,,"200 RIDEAU STREET UNIT#1901  - Ottawa , ON",K1N 5X8,$2650
+Ottawa,house,4,2,,"3700 REVELSTOKE DRIVE  - Ottawa , ON",K1V 8N8,$4500
+Ottawa,apartment,3,2,,"400 STEWART STREET UNIT#1701  - Ottawa , ON",K1N 6K5,$4000
+Nepean,house,7,3,,"1648 ORTONA AVENUE  - Nepean , ON",Postal code not found,$3950
+Ottawa,house,3,2,,"15 CRICHTON STREET  - Ottawa , ON",K1M 1V4,$3500
+Ottawa,condo,2,2,,"805 CARLING AVENUE UNIT#2704  - Ottawa , ON",K2K 2A1,$3200
+Ottawa,house,3,4,,"648 WESTVIEW AVENUE  - Ottawa , ON",K1Z 7H3,$2500
+Ottawa,apartment,1,0.5,,"989 WELLINGTON STREET UNIT#B  - Ottawa , ON",K1R 0A7,$1550
+Ottawa,apartment,2,3,,"683 MELBOURNE AVENUE UNIT#2  - Ottawa , ON",K2A 1C4,$2600
+Ottawa,condo,2,4,,"111 CHAMPAGNE AVENUE S UNIT#309  - Ottawa , ON",K1S 4P1,$3000
+Ottawa,house,4,1,,"323 BOOTH STREET  - Ottawa , ON",K1R 7K7,$5250
+Ottawa,condo,2,2,,"1227 WELLINGTON AVENUE UNIT#303  - Ottawa , ON",Postal code not found,$3500
+Ottawa,house,3,3.5,,"302 ST ANDREW STREET  - Ottawa , ON",K1N 9E8,$2495
+Ottawa,house,4,1,,"2432 WYNDALE CRESCENT  - Ottawa , ON",K1H 6P4,$3350
+Ottawa,private-room,1,2,,"999 Bronson Avenue  - Ottawa , ON",K1S 2R2,$800
+Ottawa,town-house,3,4,,"145 Dalhousie Street  - Ottawa , ON",K1N 7C9,$2950
+Ottawa,house,5,2,,"707 Parkdale  - Ottawa , ON",K1Y 1J2,$4950
+Nepean,condo,3,3,,"900 DYNES ROAD UNIT#2001  - Nepean , ON",Postal code not found,$2600
+Ottawa,condo,2,3,,"805 CARLING AVENUE UNIT#2404  - Ottawa , ON",K2K 2A1,$3500
+Gloucester,town-house,3,1,,"130 Matador Private  - Gloucester , ON",Postal code not found,$2650
+Ottawa,condo,2,4,,"224 LYON STREET N UNIT#716  - Ottawa , ON",K1R 7X6,$2495
+Ottawa,condo,2,2,,"179 METCALFE STREET UNIT#401  - Ottawa , ON",K2P 1N3,$2595
+Nepean,town-house,3,1,,"117 MONTAUK PRIVATE  - Nepean , ON",Postal code not found,$3500
+Ottawa,apartment,2,1,,"280 CRICHTON STREET UNIT#402  - Ottawa , ON",K1M 2H6,$3960
+Ottawa,house,5,2,,"176 ACACIA AVENUE  - Ottawa , ON",K1M 0T3,$4950
+Ottawa,house,3,2,,"48 ELLA STREET  - Ottawa , ON",K1S 2N7,$3750
+Nepean,condo,3,5,,"900 DYNES ROAD UNIT#801  - Nepean , ON",Postal code not found,$2500
+Gloucester,house,4,2,,"323 LYSANDER PLACE  - Gloucester , ON",Postal code not found,$3200
+Ottawa,condo,4,2,,"19 PENTRY LANE  - Ottawa , ON",K1S 0X1,$3500
+Nepean,house,3,2.5,,"17 OAKWOOD AVENUE  - Nepean , ON",K2E 6G7,$2650
+Ottawa,condo,1,2,,"324 LAURIER AVENUE UNIT#1512  - Ottawa , ON",K1P 0A4,$2200
+Ottawa,apartment,2,5,,"1425 VANIER PARKWAY UNIT#336  - Ottawa , ON",K1K 1V2,$3675
+Ottawa,condo,2,3,,"101 QUEEN STREET UNIT#610  - Ottawa , ON",K1P 1A4,$5600
+Ottawa,house,5,3,,"812 CROSSGATES STREET  - Ottawa , ON",Postal code not found,$3500
+Ottawa,apartment,2,4,,"1425 VANIER PARKWAY UNIT#217  - Ottawa , ON",K1K 1V2,$3599
+Ottawa,house,5,1,,"253 CARILLON STREET  - Ottawa , ON",K1L 6C4,$2500
+Gloucester,house,3,2,,"3780 Autumnwood Street  - Gloucester , ON",K1T 2R2,$2600
+Gloucester,condo,3,2,,"104 STRATHAVEN PRIVATE  - Gloucester , ON",K1J 7P6,$2250
+Gloucester,house,4,1,,"1601 KINGSDALE AVENUE  - Gloucester , ON",K1T 1N6,$4500
+Ottawa,house,3,5,,"58 YOUNG STREET UNIT#A  - Ottawa , ON",K1Y 3P7,$3900
+Ottawa,town-house,3,2,,"115 Kimberwick Crescent  - Ottawa , ON",K1V 1G8,$2600
+Ottawa,town-house,3,4,,"191 KIPP STREET  - Ottawa , ON",K1L 7R6,$3400
+Ottawa,apartment,0.5-2,1,,"700 Somerset Street West  - Ottawa , ON",K1R 6P4,$1480 - $2395
+Ottawa,condo,2,2,,"1422 WELLINGTON STREET UNIT#304  - Ottawa , ON",K1A 0A3,$2950
+Ottawa,condo,2,2,,"234 RIDEAU STREET UNIT#1807  - Ottawa , ON",K1N 0A9,$2550
+Ottawa,apartment,1,1,,"203 CATHERINE STREET UNIT#1904  - Ottawa , ON",K2P 2G8,$2100
+Ottawa,house,4,1,,"7 CHANCELLOR COURT  - Ottawa , ON",K1V 2E8,$7250
+Ottawa,town-house,2,3,,"104 LITTLE LONDON PRIVATE  - Ottawa , ON",K1N 5V3,$2950
+Nepean,town-house,3,1,,"113 MONTAUK PRIVATE  - Nepean , ON",Postal code not found,$6000
+Ottawa,condo,2,2.5,,"266 LORRY GREENBERG DRIVE UNIT#101  - Ottawa , ON",K1T 3J6,$1900
+Ottawa,house,2,1,,"56 QUEEN VICTORIA STREET  - Ottawa , ON",K1M 2J7,$2800
+Ottawa,house,2,1,,"583 EDISON AVENUE  - Ottawa , ON",K1Z 5G5,$2500
+Ottawa,condo,1,5,,"256 RIDEAU STREET UNIT#2103  - Ottawa , ON",K1N 0A9,$2250
+Ottawa,duplex,3,4,,"176 Dagmar Avenue  - Ottawa , ON",K1L 7R6,$2900
+Ottawa,town-house,2,1.5,,"207 WEST VILLAGE PRIVATE  - Ottawa , ON",K1Z 6G6,$3100
+Ottawa,private-room,1,3,,"3325 Uplands Drive  - Ottawa , ON",K1V 9V8,$649
+Ottawa,apartment,3,1,,"200 Clearview Avenue  - Ottawa , ON",K1Z 1G4,$2695
+Ottawa,private-room,1,0.5,,"770 Brookfield Road  - Ottawa , ON",K1V 8N5,$1350
+Ottawa,apartment,1,1.5,,"31 Russell Avenue  - Ottawa , ON",K1N 6V7,$2200
+Ottawa,house,3,1,,"167 DRUMMOND STREET  - Ottawa , ON",K1S 5P4,$2450
+Gloucester,house,5,2.5,,"10 MASSEY LANE  - Gloucester , ON",K1J 6H2,$10000
+Nepean,house,4,3,,"215 MADHU CRESCENT  - Nepean , ON",Postal code not found,$4695
+Ottawa,house,3,1.5,,"3802 Crowsnest Avenue  - Ottawa , ON",K1V 0P5,$3000
+Gloucester,town-house,0,1,,"1714 Jobin Crescent  - Gloucester , ON",K1J 1C5,$2795
+Nepean,house,4,3,,"1452 NORMANDY CRESCENT UNIT#A  - Nepean , ON",K2E 6N6,$4000
+Ottawa,apartment,1,2,,"146 BAYSWATER AVENUE UNIT#3  - Ottawa , ON",K1Y 0H3,$2150
+Ottawa,condo,1.5,3.5,,"360 McLeod Street  - Ottawa , ON",K2P 1A4,$2600
+Ottawa,private-room,5,2,,"2071 Prince Charles Road  - Ottawa , ON",K2A 3L3,$700
+Ottawa,condo,1.5,2,,"224 Lyon Street North  - Ottawa , ON",K1R 7X6,$2200
+Ottawa,house,5,1.5,,"2 Arundel Avenue  - Ottawa , ON",K1G 3H8,$5000
+Ottawa,house,0,2,,"370 Athlone Avenue  - Ottawa , ON",K1Z 5M3,$2295
+Ottawa,house,3,1,,"99 Granville Street  - Ottawa , ON",K1L 5C6,$2850
+Ottawa,private-room,1,2,,"114 Sherbrooke Avenue  - Ottawa , ON",K1Y 3H7,$1150
+Ottawa,condo,1,1,,"200 Rideau Street  - Ottawa , ON",K1N 5X8,$2190
+Ottawa,apartment,3,2,,"12 Somerset Street West  - Ottawa , ON",K2P 0B9,$3750
+Gloucester,town-house,3,1,,"1339 Belgate Way  - Gloucester , ON",K1J 7S3,$2200
+Gloucester,house,3,1,,"144 Carwood Circle  - Gloucester , ON",Postal code not found,$2800
+Ottawa,house,3,2.5,,"549 Donald Street  - Ottawa , ON",K1K 3B3,$2500
+Ottawa,condo,2,1,,"555 Brittany Drive  - Ottawa , ON",K1K 4S5,$2050
+Gloucester,house,4,1.5,,"2332 Ogilvie Road  - Gloucester , ON",K1J 8M0,$2800
+Gloucester,apartment,2.5,1,,"200 Frontier Path Private  - Gloucester , ON",K1J 1G1,$2980
+Ottawa,private-room,2,1,,"445 Laurier Avenue West  - Ottawa , ON",K1R 7Y7,$1400
+Ottawa,apartment,0.5-2,2,,"29 Robinson Avenue  - Ottawa , ON",K1N 8M9,$1600 - $2410
+Ottawa,condo,1,1,,"255 Bay Street  - Ottawa , ON",K1R 0C5,$1950
+Ottawa,house,3,3,,"2272 Lawn Avenue  - Ottawa , ON",K2B 7C2,$2850
+Ottawa,condo,1,1,,"199 Kent Street  - Ottawa , ON",K2P 2A4,$1850
+Ottawa,condo,1,3,,"195 Besserer Street  - Ottawa , ON",K1N 7M7,$2250
+Ottawa,town-house,3,2,,"3448 Southgate Road  - Ottawa , ON",K1V 1A6,$2550
+Ottawa,house,3,1,,"1295 Notting Hill Avenue  - Ottawa , ON",K1V 6T3,$2375
+Nepean,house,3,1.5,,"140 Fieldrow Street  - Nepean , ON",K2G 2Y7,$2500
+Ottawa,apartment,2,2,,"601 Somerset Street West  - Ottawa , ON",K1R 6A2,$2250
+Ottawa,apartment,1,2.5,,"6 Oblats Avenue  - Ottawa , ON",K1S 5P4,$1990
+Ottawa,house,4,4,,"1235 Saint Paul Avenue  - Ottawa , ON",Postal code not found,$3500
+Ottawa,apartment,2,2,,"916 Rex Avenue  - Ottawa , ON",K2A 2M3,$2200
+Gloucester,house,2,3,,"255 Squadron Crescent  - Gloucester , ON",Postal code not found,$2150
+Ottawa,house,3,1,,"489 Pleasant Park Road  - Ottawa , ON",K1H 5M9,$2790
+Ottawa,town-house,3,3,,"46 Ella Street  - Ottawa , ON",K1S 2N7,$3950
+Gloucester,condo,2.5,2,,"101 Gatestone Private  - Gloucester , ON",K1J 1G4,$2590
+Ottawa,apartment,1,1,,"6 Oblats Avenue  - Ottawa , ON",K1S 5P4,$2165
+Gloucester,town-house,2,1,,"840 Mikinak Road  - Gloucester , ON",Postal code not found,$2025
+Ottawa,apartment,2,0.5,,"121 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$2795
+Gloucester,house,4,1,,"178 Avro Circle  - Gloucester , ON",Postal code not found,$3950
+Gloucester,house,5,1,,"322 Wisteria Crescent  - Gloucester , ON",K1V 2L9,$3250
+Ottawa,apartment,2,1,,"121 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$2795
+Ottawa,house,4,0.5,,"434 Hilson Avenue  - Ottawa , ON",K1Z 6B9,$3850
+Ottawa,apartment,1,2.5,,"270 Breezehill Avenue South  - Ottawa , ON",K1Y 3S8,$2025
+Ottawa,house,3,1.5,,"46 Ella Street  - Ottawa , ON",K1S 2N7,$3950
+Ottawa,apartment,1-2,2.5,,"10 Oblats Avenue  - Ottawa , ON",K1S 5P4,$1875 - $2595
+Ottawa,apartment,1,2,,"175 Main Street  - Ottawa , ON",K1S 1C6,$1905 - $2130
+Ottawa,condo,2,2,,"Lorry Greenberg Drive  - Ottawa , ON",K1T 3J6,$1850
+Ottawa,house,3,1.5,,"212 Plymouth Street  - Ottawa , ON",K1R 6Z5,$2400
+Gloucester,town-house,0,1,,"840 Mikinak Road  - Gloucester , ON",Postal code not found,$2100
+Ottawa,town-house,2,2,,"252 Saint Andrew Street  - Ottawa , ON",Postal code not found,$1750
+Ottawa,studio,0,2,,"185 Lyon Street North  - Ottawa , ON",K1R 7X6,$1669
+Ottawa,multi-unit,1,1,,"155 Stewart Street  - Ottawa , ON",K1N 7N1,$1450
+Ottawa,house,3,2,,"212 Plymouth Street  - Ottawa , ON",K1R 6Z5,$2400
+Ottawa,house,3,1,,"434 Hilson Avenue  - Ottawa , ON",K1Z 6B9,$3850
+Ottawa,house,4,1,,"135 Young Street  - Ottawa , ON",K1Y 3P7,$2200
+Ottawa,house,5,1,,"1 Cornwall Street  - Ottawa , ON",K1N 6P1,$5000
+Ottawa,condo,2,1,,"682 Churchill Avenue North  - Ottawa , ON",K1Z 5G7,$2300
+Ottawa,condo,2,1,,"555 Brittany Drive  - Ottawa , ON",K1K 4S5,$2200
+Ottawa,condo,2.5,1,,"338 London Terrace  - Ottawa , ON",K1K 2Z6,$2100
+Ottawa,condo,1,1,,"McLeod Street  - Ottawa , ON",K2P 1N3,$1900
+Ottawa,condo,2,1,,"234 Rideau Street  - Ottawa , ON",K1N 0A9,$2500
+Ottawa,condo,1,1,,"158 McArthur Avenue  - Ottawa , ON",K1L 6P8,$1950
+Ottawa,condo,1,0.5,,"485 Richmond Road  - Ottawa , ON",K2A 0G2,$1980
+Ottawa,condo,2,1,,"100 Roger Guindon Avenue  - Ottawa , ON",K1G 1N7,$2500
+Ottawa,condo,1,1,,"135 Barrette Street  - Ottawa , ON",K1L 8A1,$3150
+Ottawa,condo,1,1,,"118 Holmwood Avenue  - Ottawa , ON",K1S 2R2,$2200
+Ottawa,condo,1,1,,"420 Berkley Avenue  - Ottawa , ON",K2A 4H5,$2250
+Ottawa,condo,1,2,,"101 Richmond Road  - Ottawa , ON",K1Z 6V7,$2160
+Ottawa,condo,1,1,,"121 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$2700
+Ottawa,condo,1,1,,"646 Cummings Avenue  - Ottawa , ON",K1K 0T3,$1500
+Ottawa,basement,2,1,,"82 Grove Avenue  - Ottawa , ON",K1S 2Y7,$1750
+Ottawa,apartment,0.5,1,,"638 Center Street  - Ottawa , ON",K1K 4S5,$1750
+Ottawa,apartment,2,1,,"1337 Kingston Avenue  - Ottawa , ON",K1Z 8E6,$1750
+Ottawa,apartment,0.5,3,,"121 Parkdale Avenue  - Ottawa , ON",K1Y 4S9,$1650
+Nepean,apartment,1,1,,"20 Deerfield Drive  - Nepean , ON",K2G 3N5,$1565
+Ottawa,apartment,1,2,,"485 King Edward Avenue  - Ottawa , ON",K1N 7N1,$1675
+Ottawa,apartment,1,1,,"116 Cartier Street  - Ottawa , ON",K2P 0H3,$3200
+Ottawa,apartment,1,,,"250 Lett Street  - Ottawa , ON",K1R 0A7,$1900
+Ottawa,apartment,1,,,"290 Powell Avenue  - Ottawa , ON",K1R 7L2,$2500
+Ottawa,apartment,3,,,"273 Shakespeare Street  - Ottawa , ON",K1L 6B3,$2050
+Ottawa,apartment,1,,,"16 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$1825
+City not found,apartment,1,,,"253 Pères-Blancs Avenue  - Ottawa , ON",K1L 5C6,$1375
+City not found,apartment,2,,,"Joffre-Bélanger Way  - Ottawa , ON",K1L 5C6,$1430
+Ottawa,studio,0,,,"185 Lyon Street North  - Ottawa , ON",K1R 7X6,$1669
+Ottawa,private-room,3,,,"101 Champagne Avenue South  - Ottawa , ON",K1S 4P1,$1150
+Nepean,private-room,1,,,"1435 Prince of Wales Drive  - Nepean , ON",K2G 7B3,$710
+Nepean,house,5,,,"53 Overlake Drive  - Nepean , ON",K2E 7X5,$2500
+Ottawa,shared-room,1,,,"83 Sweetland Avenue  - Ottawa , ON",K1N 6V9,$700

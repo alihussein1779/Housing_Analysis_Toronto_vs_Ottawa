@@ -1,0 +1,851 @@
+City,Property Type,Bedrooms,Bathrooms,Square Footage,Address,Zip code,Price
+Toronto,apartment,0-3,3,1463,"450 Front Street West  - Toronto , ON",M5V 2P1,$2400 - $7872
+Toronto,apartment,1-2.5,2,963,"118 Balliol Street  - Toronto , ON",M4S 3C4,$2540 - $4005
+Toronto,apartment,1-3,2.5,1119,"131 Mill Street  - Toronto , ON",M5A 3C4,$2546 - $4437
+Toronto,apartment,0-3,2,886,"200 Redpath Avenue  - Toronto , ON",M4P 1G4,$2570 - $4980
+Toronto,apartment,1-2,2,1050,"57 Spadina  - Toronto , ON",M5R 2X3,$3217 - $4536
+Toronto,apartment,0-2.5,2,847,"18 Erskine Ave  - Toronto , ON",M4P 1Y5,$2615 - $3925
+Toronto,apartment,1-2,2,886,"2376 Dundas Street West  - Toronto , ON",M5G 1M5,$2500 - $3720
+Toronto,apartment,1-2,2,773,"44 Lillian Street  - Toronto , ON",M4S 0B7,$2475 - $3680
+Toronto,apartment,0-2,1,869,"45 Dunfield Avenue  - Toronto , ON",M4P 2Y1,$2190 - $3155
+Toronto,apartment,1-3,2,1093,"25 Selby Street  - Toronto , ON",M4X 1W4,$2730 - $4773
+Toronto,apartment,0-2,1,640,"730 St Clarens Avenue  - Toronto , ON",M6H 3Z6,$1610 - $2610
+Toronto,apartment,1-3,2,1041,"740 Dupont St.  - Toronto , ON",M6G 0A9,$2740 - $4422
+Toronto,apartment,0-3,2,1150,"798 Richmond Street West  - Toronto , ON",M6J 1G4,$1845 - $4230
+Toronto,apartment,0-3,2,1021,"2280 Eglinton Ave West  - Toronto , ON",M6E 4Y2,$2099 - $3699
+Toronto,apartment,1.5-3.5,1,968,"701 Eglinton Avenue West  - Toronto , ON",M5N 1B9,$2745 - $3479
+Toronto,apartment,2-2.5,1,706,"699 Eglinton Avenue West  - Toronto , ON",M5N 1B9,$2608 - $2745
+Toronto,apartment,2,1,653,"166 Eastbourne Avenue  - Toronto , ON",M4R 1A7,$2425
+Toronto,apartment,1-2,1,664,"230 Oak Street  - Toronto , ON",M5A 0M9,$2050 - $2850
+Toronto,apartment,2-2.5,1,1138,"697 Eglinton Avenue West  - Toronto , ON",M5N 1B9,$2608 - $2699
+East York,apartment,2-3,1,836,"75 Eastdale Avenue  - East York , ON",M4C 5A2,$2600 - $2850
+Toronto,apartment,2,1,664,"140 Springhurst Avenue  - Toronto , ON",M6K 2X5,$3020
+Toronto,apartment,2,1,835,"464 Spadina Road  - Toronto , ON",M5P 2W3,$2745
+Toronto,apartment,0-2,2,956,"167 Church Street  - Toronto , ON",M5B 1Y6,$2425 - $3700
+Toronto,apartment,0-2,2,555,"570 Bay Street  - Toronto , ON",M5G 2C3,$2320 - $4250
+Toronto,apartment,0-1,1,825,"132 Berkeley Street  - Toronto , ON",M5A 2X1,$2275 - $2800
+Toronto,apartment,0-2,1,1186,"235 Bloor Street East  - Toronto , ON",M4W 3Y3,$2550 - $3715
+Toronto,apartment,0-3,1.5,780,"44 Jackes Avenue  - Toronto , ON",M4T 1X3,$2211 - $5210
+Toronto,apartment,0-2,2,882,"15 Solidarity Way  - Toronto , ON",Postal code not found,$2182 - $3638
+Toronto,apartment,0-2,1,900,"55 Maitland Street  - Toronto , ON",M4Y 2C5,$2100 - $3500
+Toronto,apartment,1-2,1.5,690,"45 Balliol Street  - Toronto , ON",M4S 1C3,$2400 - $3300
+Toronto,apartment,0-1,1,884,"77 Davisville Avenue  - Toronto , ON",M4S 2Y9,$2000 - $2400
+Toronto,apartment,0-2,1,1217,"225 Davisville Avenue  - Toronto , ON",M4S 1C2,$2150 - $3000
+Toronto,apartment,1-2,2,1307,"1100 King Street West  - Toronto , ON",M6K 0C7,$2435 - $4362
+Toronto,apartment,0-3,2,1151,"410 Dufferin Street  - Toronto , ON",M6H 4B5,$2583 - $4219
+Toronto,apartment,1-3,2,900,"25 Montgomery Avenue  - Toronto , ON",M4R 0A2,$2723 - $6459
+Toronto,apartment,1-2,2,1200,"15 Roehampton Ave  - Toronto , ON",M4P 1P9,$2631 - $3000
+Toronto,condo,2,2,650,"26 Douro Street  - Toronto , ON",M6K 3R9,$3600
+Toronto,apartment,2,1,800,"1336 Avenue Road  - Toronto , ON",M4R 1P2,$3960
+Toronto,condo,1,1,831,"21 Widmer Street  - Toronto , ON",M5V 1J9,$3400
+Toronto,condo,2,2,265,"185 Alberta Avenue  - Toronto , ON",M6H 2M1,$3500
+Toronto,apartment,1-2,1,1047,"5 Mallory Gdn  - Toronto , ON",M4T 2S9,$2650 - $2900
+Toronto,apartment,0-1,1,589,"26 Balmoral Avenue  - Toronto , ON",M4V 1J4,$1700 - $1900
+Toronto,apartment,2,1,476,"755 Avenue Road  - Toronto , ON",M5P 1A6,$3350
+Toronto,apartment,1,1,886,"111 Lawton Boulevard  - Toronto , ON",M4T 2S9,$2350 - $2450
+Toronto,apartment,1,1,769,"263 Russell Hill Road  - Toronto , ON",M4V 1R8,$2350
+Toronto,apartment,2,1,1,"501 Kingston Road  - Toronto , ON",M4L 1V3,$3100 - $3200
+Toronto,apartment,2,1,1,"110 Wellesley Street East  - Toronto , ON",M5A 2K3,$2670
+Toronto,apartment,1,1,380,"83 &amp; 85 Silver Birch Avenue  - Toronto , ON",M4E 1T1,$2395
+Toronto,apartment,0,1,1,"391 Sherbourne Street  - Toronto , ON",M5A 2S3,$2150
+Toronto,apartment,0,1,560,"107 Redpath Avenue  - Toronto , ON",M4P 1G4,$1740
+Toronto,apartment,0-2,1,1,"177 St. George Street  - Toronto , ON",M5R 2N5,$2199 - $2805
+Toronto,apartment,0-1,1,830,"161 St. George Street  - Toronto , ON",M5R 2N5,$2185 - $2379
+Toronto,apartment,0,1,880,"608 Church Street  - Toronto , ON",M4Y 2C7,$2090 - $2125
+Toronto,apartment,2,1,745,"56 Eccleston Drive  - Toronto , ON",M4A 1K2,$2950
+Toronto,apartment,2,1,431,"2875 Yonge Street  - Toronto , ON",M4N 2K7,$3000
+Toronto,apartment,2,1,500,"95 Jameson Avenue  - Toronto , ON",M6K 2X5,$2700
+Toronto,apartment,0-1,1,500,"160 Huron Street  - Toronto , ON",M5T 2B5,$1910 - $2230
+Toronto,apartment,1,1,549,"115 Eglinton Avenue West  - Toronto , ON",M4R 2G8,$1799
+Toronto,apartment,0-1,1,600,"1001 O'Connor Drive  - Toronto , ON",M4B 2T8,$1750 - $1995
+Toronto,apartment,1,1,470,"1420 Kingston Road  - Toronto , ON",M1N 2V8,$2025
+Toronto,apartment,1,1,1050,"2901 St Clair Avenue East  - Toronto , ON",M4B 2J0,$2250
+Toronto,apartment,0,1,519,"130 Rosedale Valley Road  - Toronto , ON",M4W 2H2,$1995
+Toronto,apartment,2,1,235,"36 Castle Frank Road  - Toronto , ON",M4W 1J4,$3450
+Toronto,apartment,1,1,630,"81 Isabella Street  - Toronto , ON",M4Y 1N9,$2150
+Toronto,apartment,0,1,1875,"56 Maitland Street  - Toronto , ON",M4Y 2C5,$1860
+Toronto,apartment,1,1,514,"263/273/283 Pharmacy Avenue  - Toronto , ON",M1R 4B7,$2250 - $2300
+Toronto,town-house,3,2,2226,"1145 Ossington Ave  - Toronto , ON",M6G 2C3,$4400 - $5000
+Toronto,multi-unit,1,1,958,"30 Soudan Ave  - Toronto , ON",M4S 2B2,$5555
+Toronto,apartment,1,1,600,"122 Dowling Avenue  - Toronto , ON",M6R 1A6,$2280
+Toronto,apartment,0-1,1,535,"33 Holly St.  - Toronto , ON",M4P 1A2,$1850 - $2375
+Toronto,apartment,0-2,1,885,"44 Dunfield Ave.  - Toronto , ON",M4P 2Y1,$1800 - $2775
+Toronto,apartment,2,1,600,"245 Howland Avenue  - Toronto , ON",M5R 3B6,$2999
+Toronto,town-house,3,2.5,775,"87 Balliol Street  - Toronto , ON",M4S 3C4,$4300
+Toronto,apartment,1,1,510,"1000 Mount Pleasant Road  - Toronto , ON",M4P 2M5,$2445
+Toronto,apartment,1,1,550,"110 Erskine Avenue  - Toronto , ON",M4P 1Y5,$2515
+Toronto,apartment,0-1,1,5100,"140 Erskine Avenue  - Toronto , ON",M4P 2L8,$2075 - $2435
+Toronto,apartment,1,1,635,"8 Newholm Road  - Toronto , ON",M8Y 1T3,$2250
+Toronto,apartment,1-2,1,835,"69 Old Mill Terrace  - Toronto , ON",M8X 1A5,$2450 - $3000
+Toronto,apartment,1,1,664,"787 Vaughan Rd  - Toronto , ON",M6E 3S5,$2100
+Toronto,apartment,2,1,491,"223 Woodbine Ave  - Toronto , ON",M4L 1P3,$2400
+Toronto,apartment,1,1,571,"81 Wellesley Street East  - Toronto , ON",M4Y 1H2,$2700
+Toronto,apartment,1,1,675,"400 Adelaide Street East  - Toronto , ON",M5A 1N7,$2500
+Toronto,apartment,0-2,1,656,"111 Davisville Avenue  - Toronto , ON",M4S 1C2,$1935 - $3005
+Toronto,apartment,0-1,1,925,"33 Davisville Avenue  - Toronto , ON",M4S 2Y9,$1935 - $2380
+Toronto,apartment,0-2,1,749,"77 Huntley Street  - Toronto , ON",M4W 3J6,$1970 - $2950
+Toronto,apartment,0-1,1,654,"177 Jameson Avenue  - Toronto , ON",M6K 1M4,$1925 - $2545
+Toronto,apartment,1-2,1,740,"150 Roehampton Avenue  - Toronto , ON",M4P 2C9,$2620 - $3172
+Toronto,apartment,1-2.5,1,830,"61 Yorkville Avenue  - Toronto , ON",M5R 1C1,$3132 - $11737
+Toronto,house,4.5,2,976,"30 Gwynne Avenue  - Toronto , ON",M6K 2E2,$5100
+Toronto,apartment,0-3,2,443,"897 College Street  - Toronto , ON",M6H 1A6,$2445 - $5740
+Toronto,apartment,0-1,1,443,"100 Gloucester St and 105 Isabella St, Toronto, ON  - Toronto , ON",Postal code not found,$2129 - $2429
+Toronto,apartment,1-2,1,1333,"295 Dufferin Street  - Toronto , ON",M6K 1G4,$2370 - $2789
+Toronto,apartment,1,1,257,"55 Triller Avenue  - Toronto , ON",M6R 1B2,$2219
+Etobicoke,apartment,1,1,620,"2495 Lake Shore Boulevard, West  - Etobicoke , ON",M8V 1C5,$2249
+Etobicoke,apartment,0-1,1,546,"26 Albert Avenue  - Etobicoke , ON",M8V 1M9,$1957 - $2299
+Toronto,apartment,1,1,602,"24 Tyndall Avenue  - Toronto , ON",M6K 2E2,$2284
+Toronto,apartment,0-1,1,903,"99 Dowling Avenue  - Toronto , ON",M6K 1C2,$1818 - $2204
+Toronto,apartment,0-2,1,480,"150 Dowling Avenue  - Toronto , ON",M6R 1A6,$1865 - $2683
+East York,apartment,1,1,803,"1501 Woodbine Avenue  - East York , ON",M4C 2Z1,$2399
+Toronto,apartment,1,1,709,"80 Wellesley Street, East  - Toronto , ON",M4Y 1H2,$2531 - $2799
+Toronto,apartment,1-2,1,870,"15 Dundonald Street  - Toronto , ON",M4Y 2C7,$2326 - $3210
+Toronto,apartment,2,1,1300,"837 Roselawn Avenue  - Toronto , ON",M6E 3B5,$2799
+Toronto,apartment,0-2,1,500,"141 Davisville Avenue  - Toronto , ON",M4S 1C2,$1945 - $2960
+Toronto,apartment,0,1,1410,"229 Carlton Street  - Toronto , ON",M5A 2L2,$1400
+Toronto,apartment,2.5,1,574,"3443 Bathurst Street  - Toronto , ON",M6A 2C7,$2850
+Toronto,apartment,0-1,1,1341,"1512 King Street West  - Toronto , ON",M6K 1G4,$1350 - $1750
+Toronto,apartment,0,1,700,"1510 King Street West  - Toronto , ON",M6K 1G4,$1350
+Toronto,apartment,1-2.5,2,850,"30 Inn On The Park Drive  - Toronto , ON",Postal code not found,$2400 - $4100
+Toronto,multi-unit,1,1,714,"48 Dewhurst Blvd.  - Toronto , ON",M4J 1L7,$2450
+Toronto,apartment,0,1,775,"5 Glenavon Road  - Toronto , ON",M6K 1C2,$1681 - $1756
+Toronto,apartment,0-2,1,1100,"111 Pacific Avenue  - Toronto , ON",Postal code not found,$2259 - $3270
+Toronto,apartment,1,1,1400,"120 Raglan Avenue  - Toronto , ON",M6C 4B3,$2190 - $2459
+East York,apartment,1,1,502,"327 Chisholm Ave.  - East York , ON",M4C 4T4,$2199
+Toronto,apartment,0-1,1,650,"1554, 1560, 1570 &amp; 1574 Bathurst St.  - Toronto , ON",Postal code not found,$1825 - $2100
+Toronto,duplex,1,1,900,"90 Tecumseth St.  - Toronto , ON",M6J 2H1,$2750
+Toronto,apartment,1,1,550,"919 Dufferin  - Toronto , ON",M6H 4B4,$2725
+Toronto,apartment,1-2,1.5,720,"30 Edith Drive  - Toronto , ON",M4R 2G8,$2699 - $3449
+Toronto,apartment,1,1,1000,"30 Shore Breeze Drive  - Toronto , ON",M8V 1A2,$2495
+Toronto,apartment,1,1,650,"140 Kingston Road  - Toronto , ON",M4L 1P3,$2455 - $2484
+Toronto,apartment,2,2,1200,"108 Peter Street  - Toronto , ON",M5V 2G5,$3500
+Toronto,apartment,0-2,1,681,"Spadina Towers  - Toronto , ON",M5S 2T9,$2095 - $3395
+Scarborough,apartment,2,2,830,"757 Victoria Park Avenue  - Scarborough , ON",M1L 1B1,$3845
+Toronto,apartment,1,1,562,"120 Parliament Street  - Toronto , ON",M5A 2Z2,$2595
+Toronto,apartment,1-3,2.5,795,"20 Inn On The Park Drive  - Toronto , ON",Postal code not found,$2200 - $6000
+Toronto,apartment,1.5,1,550,"80 Vanauley Street  - Toronto , ON",M5V 2V4,$2600
+Toronto,apartment,1-2.5,2.5,700,"215 Lonsdale Road  - Toronto , ON",M4V 2K5,$3400 - $7040
+Toronto,apartment,1,1,591,"185 Roehampton Avenue  - Toronto , ON",M4P 1K5,$2645
+York,apartment,2,2,1125,"900 St Clair Ave West  - York , ON",Postal code not found,$3000
+Toronto,apartment,2,2,946,"56 Annie Craig Drive  - Toronto , ON",M8V 1A2,$3000
+Toronto,apartment,1.5,2,1100,"763 Bay Street  - Toronto , ON",M5G 2J9,$2900
+Toronto,apartment,1,1,750,"110 Charles St. E.  - Toronto , ON",M4Y 1T2,$2700
+Toronto,duplex,2,1,600,"1250 Danforth Avenue  - Toronto , ON",M4J 1M6,$2700
+Toronto,apartment,0,1,550,"492 Montrose Ave.  - Toronto , ON",M6G 1L6,$1500
+Toronto,apartment,1,1,625,"5 &amp; 11 Elm Avenue  - Toronto , ON",M4W 1N2,$2395
+Toronto,duplex,3,1.5,645,"103 Galt Avenue  - Toronto , ON",M4J 1A7,$4585
+Toronto,apartment,1.5,1,572,"158 Front St East  - Toronto , ON",M5A 2Y5,$2650
+Toronto,apartment,1,1,840,"75 Kensington Avenue  - Toronto , ON",M5T 2J8,$2945
+Toronto,house,2,1,856,"263 Garden Avenue  - Toronto , ON",M6R 1M9,$3445
+Toronto,apartment,1,1,800,"75 Kensington Avenue  - Toronto , ON",M5T 2J8,$2545
+Scarborough,apartment,1,1,909,"1080 Kingston Rd.  - Scarborough , ON",M4E 3T2,$2031
+Toronto,apartment,1,1,660,"11 Shallmar Boulevard  - Toronto , ON",M5N 2N1,$2200
+Scarborough,apartment,2,1,650,"303 Warden Avenue  - Scarborough , ON",M1L 1E3,$2495
+Toronto,apartment,2,1,1035,"75 Kensington Avenue  - Toronto , ON",M5T 2J8,$2995
+Toronto,town-house,2,1.5,916,"15 Cummings St  - Toronto , ON",M4M 1R4,$4400
+Toronto,apartment,2,2,709,"676 Richmond Street West  - Toronto , ON",M6J 1C5,$3750
+Toronto,apartment,1-2,1,575,"3 Broadway Avenue  - Toronto , ON",M4P 1T4,$2045 - $2492
+Toronto,apartment,1-2,1,530,"1903 Bayview Avenue  - Toronto , ON",M4G 0A7,$2609 - $3032
+Toronto,apartment,1,1,1215,"83 Redpath Ave  - Toronto , ON",M4P 1G4,$2600
+Toronto,multi-unit,1,1.5,776,"341 St. Clair Ave. W.  - Toronto , ON",M5P 2X9,$2999
+Toronto,apartment,1-2,1,855,"3575 Bathurst Street  - Toronto , ON",M6A 2E2,$2397 - $2804
+Toronto,apartment,1,1,515,"75 Kensington Avenue  - Toronto , ON",M5T 2J8,$2645
+Etobicoke,apartment,1,1,694,"403 Bloor Street West  - Etobicoke , ON",M8X 1A5,$2595
+Toronto,apartment,1.5,1,738,"101 Erskine Avenue  - Toronto , ON",M4P 1Y5,$2700
+Toronto,apartment,1-3,2,892,"480 Front Street West  - Toronto , ON",M5J 2J1,$2475 - $5350
+Toronto,apartment,1-2.5,2,457,"470 Front Street West  - Toronto , ON",M5J 1E3,$2500 - $4995
+Toronto,apartment,2.5,2,1337,"33 Mill St  - Toronto , ON",M5A 3C4,$4250
+Toronto,apartment,1.5,1,200,"318 King St E  - Toronto , ON",M5A 2W5,$2850
+Toronto,apartment,1,1.5,600,"111 Elizabeth St  - Toronto , ON",M5G 1P7,$2500
+Toronto,apartment,1,1,300,"12 York St  - Toronto , ON",M5J 0A3,$2700
+Toronto,apartment,1,1,699,"10 York Street  - Toronto , ON",M5J 0E1,$2500 - $2800
+Toronto,apartment,1.5,1,1091,"1 Old Mill Drive  - Toronto , ON",Postal code not found,$2650
+Toronto,apartment,1.5,1,674,"50 McCaul Street  - Toronto , ON",M5T 1L1,$2600
+Toronto,apartment,2,2,1120,"300 Front Street West  - Toronto , ON",M5V 3B5,$3800
+East York,apartment,2,1,1136,"5, 7 &amp; 9 Stag Hill Dr.  - East York , ON",Postal code not found,$2849
+Toronto,apartment,1-2,1,677,"251 Jarvis Street  - Toronto , ON",M5A 4R6,$2950
+City not found,apartment,1-2,1,600,"65-65A Hillside Dr.  - East York , ON",M4K 2S5,$2315 - $2811
+Toronto,apartment,0-1,1,491,"22 Close Ave  - Toronto , ON",M6K 2V4,$2100 - $2400
+Toronto,town-house,2,1.5,830,"15 Cummings St  - Toronto , ON",M4M 1R4,$4300
+Toronto,apartment,1,1,550,"215 Fort York Boulevard  - Toronto , ON",M5V 4A2,$2850
+Toronto,apartment,3,2,600,"20 Edward Street  - Toronto , ON",M5B 1R7,$5000
+Toronto,apartment,0-2,2,373,"585 Bloor Street East  - Toronto , ON",M4W 1J4,$2200 - $3600
+Toronto,apartment,1-2.5,1.5,790,"66 Broadway Ave  - Toronto , ON",M4P 1T4,$1925 - $2700
+Etobicoke,apartment,1,1,778,"251 Manitoba Street  - Etobicoke , ON",M8Y 4H5,$2100
+Toronto,duplex,1,1,648,"36 Charlotte Street  - Toronto , ON",M5V 1R7,$2344
+Toronto,apartment,2.5,2.5,704,"118 Merchants Wharf  - Toronto , ON",Postal code not found,$4900
+Toronto,apartment,1,1,1100,"386 Yonge St.  - Toronto , ON",M4N 3R8,$3350
+Toronto,apartment,1,1,933,"11 Niagara Street  - Toronto , ON",M5V 2P1,$4000 - $4001
+Toronto,apartment,1-3,1.5,790,"39 Niagara St.  - Toronto , ON",M5V 2P1,$3456 - $5500
+Toronto,apartment,1,1,550,"17 Bathurst Street  - Toronto , ON",M6C 0A2,$2500
+Toronto,apartment,1.5,1,850,"2 Old Mill Drive  - Toronto , ON",Postal code not found,$3250
+Toronto,apartment,1.5,2,750,"18 Yonge Street  - Toronto , ON",M5E 2A1,$3000
+Toronto,apartment,1-2,1,1100,"80 Guestville Ave  - Toronto , ON",M4N 4P5,$1999 - $2399
+Toronto,apartment,1-2,1,750,"3000, 3015, 3017 Queen St. E  - Toronto , ON",M4M 1G3,$2226 - $2829
+Toronto,apartment,1,1,750,"37 Grange Ave,  - Toronto , ON",M5T 1G7,$2600
+Toronto,apartment,0,1,650,"262 Jarvis Street  - Toronto , ON",M5A 4R6,$2025 - $2195
+City not found,apartment,2-3,2,750,"592-596 Churst Street  - Toronto , ON",Postal code not found,$2800 - $5399
+City not found,multi-unit,0,1,650,"7 - 9 Homewood ave  - Toronto , ON",M2M 3W7,$1079
+North York,apartment,1,1,650,"160 Flemington Road  - North York , ON",M6A 2R1,$2245
+Toronto,private-room,1,1,650,"500 Queen Street E  - Toronto , ON",M5A 1V1,$750
+Scarborough,apartment,1,1,500,"1316 Kingston Road  - Scarborough , ON",M1N 2V8,$2550
+Toronto,apartment,3,1,500,"16 Rathnelly Ave  - Toronto , ON",M2R 1K5,$7800
+North York,apartment,1-3,1,470,"15 Martha Eaton Way  - North York , ON",M6M 5E6,$2350 - $2900
+Toronto,apartment,0,1,650,"3311 Bathurst Street  - Toronto , ON",M6A 2B1,$2070 - $2298
+Toronto,apartment,1.5-2.5,3,650,"280 Howland Avenue  - Toronto , ON",M5R 3B6,$2850 - $4650
+Toronto,apartment,1-2,1,850,"50 Spadina Road  - Toronto , ON",M5R 2X3,$3176 - $4075
+Scarborough,apartment,0-1,1,1336,"10 Macey Avenue  - Scarborough , ON",M1L 2P7,$0 - $1899
+Toronto,apartment,1,1,804,"3000 Yonge Street  - Toronto , ON",M4N 2K7,$2090
+Toronto,apartment,1,1,650,"539 Dovercourt Road  - Toronto , ON",M6H 1A6,$2095
+City not found,apartment,1,1,650,"338-342 Donlands Ave.  - East York , ON",M4J 2P5,$2299
+Scarborough,apartment,0-2,1,850,"1150 and 1200 Kingston Rd.  - Scarborough , ON",Postal code not found,$1893 - $2665
+Toronto,apartment,0-1,1,550,"2890 St Clair Avenue East  - Toronto , ON",M4B 2J0,$1799 - $1999
+East York,apartment,1,1,550,"82 Halsey Avenue  - East York , ON",M4B 2E6,$1995
+North York,apartment,1,1,650,"1465 Lawrence Ave West  - North York , ON",M6L 3C9,$2182
+Toronto,apartment,1.5-2,2,643,"1 Edgewater Drive  - Toronto , ON",M5A 0L1,$3100 - $3250
+Toronto,apartment,1-2,2,812,"575 Bloor Street East  - Toronto , ON",M4W 1J4,$2400 - $3250
+City not found,apartment,0-1,1,650,"310-312 Lonsdale Road  - Toronto , ON",M5T 2E9,$2100 - $2412
+Toronto,apartment,0-2,1,850,"2837 Yonge Street  - Toronto , ON",M4N 2K7,$1899 - $2924
+Etobicoke,apartment,2.5,2,650,"15 Legion road  - Etobicoke , ON",M8V 4C5,$3599
+City not found,apartment,2,1,550,"1833-1835 Bayview Avenue  - East York , ON",M4K 2B9,$2692
+Toronto,apartment,0-2,2,550,"89 McGill Street  - Toronto , ON",M5B 2A2,$2400 - $3800
+Toronto,apartment,1.5,1,550,"121 Lower Sherbourne St  - Toronto , ON",M5A 4M8,$2800
+Toronto,apartment,2,2,1722,"375 King St W  - Toronto , ON",M5V 1L8,$3850
+Toronto,apartment,2,2,550,"88 Blue Jays Way  - Toronto , ON",M5V 1K2,$3900
+Toronto,apartment,1,2,650,"33 Harbour Sq  - Toronto , ON",M5J 1A6,$3500
+Toronto,apartment,1.5,2,1300,"39 Queens Quay E  - Toronto , ON",M5E 1Z2,$3300
+Toronto,apartment,1.5,1,850,"35 Mariner Terr  - Toronto , ON",M5V 3Y7,$3100
+Toronto,apartment,1.5,1,750,"705 King St W  - Toronto , ON",M5V 2W8,$2850
+Toronto,apartment,1,1,550,"1171 Queen St W  - Toronto , ON",M6J 1J6,$2850
+Toronto,apartment,1.5,1,1300,"801 King St W  - Toronto , ON",M5V 1C9,$2850
+Toronto,apartment,1,1,650,"11 Charlotte St  - Toronto , ON",M5V 1K1,$2780
+Toronto,apartment,1,1,750,"80 Western Battery Rd  - Toronto , ON",M6K 3R9,$2750
+Toronto,apartment,1,1,1100,"17 Bathurst St  - Toronto , ON",M6C 0A2,$2500
+Toronto,apartment,1,1,650,"158 Front St E  - Toronto , ON",M5A 2Y5,$2500
+Toronto,apartment,1-2,1,850,"145 Marlee Avenue  - Toronto , ON",M6E 2N4,$2384 - $3184
+Toronto,apartment,0-1,1,500,"33 Eastmount Avenue  - Toronto , ON",M4K 2R6,$1915 - $2260
+Toronto,apartment,1.5,1,550,"10 York St  - Toronto , ON",M5J 0E1,$2800
+Toronto,apartment,1,1,750,"208 Queens Quay W  - Toronto , ON",M5J 2Y5,$2500
+Toronto,apartment,2,2,650,"1 Shaw St  - Toronto , ON",M6K 3R9,$3600
+Toronto,apartment,0-3,2,550,"299 Campbell Avenue  - Toronto , ON",Postal code not found,$2175 - $5700
+Toronto,apartment,1,2,650,"2191 Yonge Street  - Toronto , ON",M4Y 1X4,$2845
+Toronto,apartment,1.5,1,950,"55 Bremner Blvd  - Toronto , ON",M5J 2V5,$2700
+Toronto,apartment,1.5,1,750,"318 Richmond St W  - Toronto , ON",M5V 3M6,$3000
+Toronto,apartment,2,2,850,"478 King St W  - Toronto , ON",M5V 1L8,$3800
+Toronto,apartment,1,1,650,"8 Mercer St  - Toronto , ON",M5V 1J5,$2600
+Toronto,apartment,1.5,1,750,"15 Queens Quay E  - Toronto , ON",M5E 1E5,$2700
+Toronto,apartment,1.5,1,650,"51 East Liberty St  - Toronto , ON",M6K 3P8,$2600
+North York,apartment,1,1,550,"2050 Keele Street  - North York , ON",M6M 2L7,$2077 - $2153
+Toronto,apartment,1-2,1,750,"1 Deauville Lane  - Toronto , ON",M3C 1C3,$1995 - $2350
+Toronto,apartment,1.5,1,859,"55 Cooper St  - Toronto , ON",M5E 0A3,$2950
+Toronto,apartment,2,2,650,"151 Dan Leckie Way  - Toronto , ON",M5V 4A7,$3500
+Toronto,apartment,1.5,1,1800,"16 Bonnycastle St  - Toronto , ON",M5A 0L1,$2995
+Toronto,apartment,1,1,448,"38 Joe Shuster Way  - Toronto , ON",M6K 0A5,$2600
+Toronto,apartment,1,1,688,"87 Peter St  - Toronto , ON",M5V 1K2,$2600
+Toronto,apartment,1,1,1460,"1 The Esplanade Dr  - Toronto , ON",M5E 1A7,$2550
+Toronto,apartment,1-3,3.5,673,"25 Ordnance Street  - Toronto , ON",M6K 3P8,$2560 - $6300
+Toronto,apartment,1.5,1,800,"80 Queens Wharf Rd  - Toronto , ON",M5V 0S4,$2750
+Toronto,apartment,1.5,1,915,"125 Peter St  - Toronto , ON",M5V 2G5,$3000
+Toronto,apartment,2,2,840,"62 Niagara St  - Toronto , ON",M5V 1G4,$4200
+Toronto,apartment,2,2,800,"130 River St  - Toronto , ON",M5A 0M9,$3500
+Toronto,apartment,1.5-2.5,2,660,"70 Temperance St  - Toronto , ON",M5H 4B2,$3200 - $3800
+Toronto,apartment,1,1,735,"25 Oxley St  - Toronto , ON",M5V 3P8,$2600
+Toronto,apartment,2,2,675,"50 Bruyeres Mews  - Toronto , ON",M5V 0G7,$4000
+Toronto,apartment,1.5,1,577,"81 Navy Wharf Crt  - Toronto , ON",M5V 3Z9,$3000
+Toronto,apartment,1-1.5,1,550,"330 Richmond St W  - Toronto , ON",M5V 3M6,$3200 - $3400
+Toronto,apartment,2,2,765,"99 Cameron St  - Toronto , ON",M5T 1E2,$3750
+Toronto,apartment,1.5-2.5,2,811,"60 Princess St  - Toronto , ON",M5A 4M8,$2550 - $3200
+Toronto,apartment,2,2,576,"15 Lower Jarvis St  - Toronto , ON",M5E 0C4,$3500
+Toronto,apartment,1,1,874,"126 Simcoe St  - Toronto , ON",M5H 3B3,$2500
+Toronto,apartment,1,1,560,"32 Camden St  - Toronto , ON",M5V 1X9,$2800
+Toronto,apartment,2,2,557,"30 Nelson St  - Toronto , ON",M1J 2V6,$3700
+Toronto,apartment,2,2,600,"68 Abell St  - Toronto , ON",M6J 0A9,$3000
+Toronto,apartment,1,1,618,"85 Queens Wharf Rd  - Toronto , ON",M5V 0S4,$2650
+Toronto,apartment,1-1.5,2,600,"138 Downes St  - Toronto , ON",M5E 1Z2,$2500 - $3400
+Toronto,apartment,2,2,1071,"80 Vanauley St  - Toronto , ON",M5V 2V4,$3750
+Toronto,apartment,1.5-2,1,633,"28 Freeland St  - Toronto , ON",M5E 1E5,$3000 - $3500
+Toronto,apartment,2,2,617,"1 Market St  - Toronto , ON",M5E 0A3,$3700
+Toronto,apartment,1.5,2,690,"19 Western Battery Rd  - Toronto , ON",M6K 3R9,$2800 - $3000
+Toronto,apartment,1.5,2,635,"38 Grand Magazine St  - Toronto , ON",M5V 1A8,$3000
+Toronto,apartment,1.5,1,657,"19 Grand Trunk Cres  - Toronto , ON",M5J 0A1,$2850
+Toronto,apartment,1,1,600,"109 Front St  - Toronto , ON",M5A 4S5,$2850
+Toronto,apartment,1.5,1,814,"35 Bastion St  - Toronto , ON",M5V 1A4,$2800 - $2900
+Toronto,apartment,1,1,786,"2 12Kingston Road  - Toronto , ON",M4L 1V3,$1950
+Toronto,apartment,0-3,1.5,933,"250 Roehampton Avenue  - Toronto , ON",M4P 1K5,$2103 - $4000
+Toronto,apartment,1,1,1015,"321 Chaplin Crescent  - Toronto , ON",M5N 1B4,$2315
+Toronto,house,5,3.5,850,"82 Homewood Avenue  - Toronto , ON",M4X 1K2,$7595
+Toronto,apartment,1,1,775,"36 Blue Jays Way  - Toronto , ON",M5V 1J6,$2400
+Toronto,apartment,1.5-2,2,1109,"525 Adelaide Street West  - Toronto , ON",M5V 0N8,$2700 - $3200
+Toronto,town-house,3,2.5,590,"17 Powerhouse Street  - Toronto , ON",M6H 3Z6,$4400
+Toronto,apartment,1,1,670,"1410 Dupont Street  - Toronto , ON",M6H 3Z6,$2600
+Toronto,apartment,2,2,500,"38 Joe Shuster Way  - Toronto , ON",M6K 0A5,$3550
+Toronto,apartment,1-2,1,840,"20 Shallmar Boulevard  - Toronto , ON",M5N 2N1,$2315 - $2725
+Toronto,apartment,0-3,2,575,"39 Niagara Street  - Toronto , ON",M5V 2P1,$2289 - $5082
+Toronto,multi-unit,2,2,1324,"197 Hallam Street  - Toronto , ON",M6H 3G4,$3500
+Toronto,multi-unit,2,2,674,"197 Hallam Street  - Toronto , ON",M6H 3G4,$3500
+Toronto,apartment,0-1,1,700,"650 Parliament Street  - Toronto , ON",M4X 1G9,$1650 - $2150
+Toronto,apartment,0-2,1,1170,"260 Wellesley Street East  - Toronto , ON",M4X 1P8,$1700 - $2650
+Toronto,apartment,2,2,722,"121 Lower Sherbourne Street  - Toronto , ON",M5A 4M8,$2980
+Toronto,apartment,2,1,562,"251 Jarvis Street  - Toronto , ON",M5A 4R6,$2950
+Toronto,apartment,1,1,500,"38 Niagara Street  - Toronto , ON",M6J 2L5,$2545
+Toronto,apartment,0-1,1,961,"2701 Eglinton Avenue West  - Toronto , ON",M6M 1T9,$1707 - $2460
+Toronto,apartment,0-2,1,649,"1862 Bathurst Street  - Toronto , ON",M6C 2C2,$1908 - $2812
+Toronto,apartment,1,1,629,"1660 Bathurst Street  - Toronto , ON",M6C 1W4,$1984 - $2053
+Toronto,apartment,1-2,1,600,"1650 Bathurst Street  - Toronto , ON",M6C 4B3,$2250 - $2831
+Toronto,apartment,1,1,1998,"1065 Eglinton Ave.  - Toronto , ON",M9R 3V7,$2362
+Toronto,apartment,1,1,618,"28 Ted Rogers Way  - Toronto , ON",M4Y 2J4,$2450
+Etobicoke,apartment,1,1,1592,"9 Crown Hill Place  - Etobicoke , ON",M8Y 1W5,$1900
+Toronto,apartment,1,1,922,"3 Strathgowan Avenue  - Toronto , ON",M4P 2J5,$2206
+Toronto,apartment,0-1,1,550,"510 Dawes Road  - Toronto , ON",M4B 2E6,$1899 - $2099
+Toronto,apartment,2,2.5,966,"1900 Bayview Avenue  - Toronto , ON",M4G 0A6,$4200
+Toronto,apartment,1.5,1,618,"83 Redpath Ave  - Toronto , ON",M4P 1G4,$2795
+Toronto,apartment,1.5,2,411,"49 East Liberty Street  - Toronto , ON",M6K 3P8,$2600
+Toronto,apartment,0-2,1,804,"70 Spadina Road  - Toronto , ON",M5T 2E9,$1949 - $3568
+Toronto,apartment,1,1,297,"66 Spadina Road  - Toronto , ON",M5R 2X3,$2660 - $2718
+Toronto,apartment,0-1,1,786,"320, 326, 330, 340, 342 Avenue Road  - Toronto , ON",M4V 2J1,$1917 - $2694
+Toronto,apartment,1,1,607,"2300 St Clair Avenue West  - Toronto , ON",Postal code not found,$2195
+Toronto,apartment,1-2,2,482,"763 Woodbine Ave.  - Toronto , ON",M4L 2C2,$2365 - $3590
+East York,apartment,1,1,621,"100 Gamble Ave  - East York , ON",M4K 3W3,$2200
+City not found,apartment,0-2,1,640,"110-120 Jameson Avenue  - Toronto , ON",M6K 2X5,$1895 - $2795
+Scarborough,apartment,1-2,1,586,"30 Denton Ave  - Scarborough , ON",M1L 3E4,$2125 - $2825
+Toronto,apartment,1-3,1,614,"2575 Danforth Avenue  - Toronto , ON",M4C 1L7,$2150 - $3200
+Toronto,apartment,2,1,964,"2, 6, 7, 8 Park Vista  - Toronto , ON",Postal code not found,$2710
+Toronto,apartment,0-2,1,650,"1 Oriole Road  - Toronto , ON",M4V 1N5,$2000 - $2685
+Toronto,apartment,0-1,1,878,"2527 Lake Shore Blvd West  - Toronto , ON",M8V 2T2,$1715 - $2295
+Toronto,apartment,1,1,1010,"1004 Lawrence Avenue East  - Toronto , ON",M3C 1X6,$2290
+Toronto,apartment,0-1,1,535,"2928 Yonge Street  - Toronto , ON",M4N 3R8,$1890 - $2295
+Etobicoke,apartment,1,1,603,"33 Shore Breeze Drive  - Etobicoke , ON",M8V 1A2,$2295
+Toronto,apartment,1-2,1,935,"31 Phipps Street  - Toronto , ON",M5S 2S3,$2635 - $3945
+Toronto,apartment,1.5,1,410,"8 Eglinton Avenue Eas  - Toronto , ON",Postal code not found,$2445
+Toronto,apartment,1,1.5,600,"75 Portland Street, Toronto,  - Toronto , ON",M5V 2M9,$8995
+Toronto,apartment,1,1,650,"2040 Eglinton Avenue West  - Toronto , ON",M6E 2K3,$2346 - $2416
+Toronto,apartment,1,1,375,"18 Concorde Place  - Toronto , ON",M3C 1J3,$2195
+Toronto,apartment,2,1,735,"460 Eglinton Avenue East  - Toronto , ON",M4P 2N1,$2620
+Toronto,apartment,0-2,2,685,"2 Clarendon Ave  - Toronto , ON",M4V 2J1,$2395 - $5395
+Toronto,apartment,0-1,1,795,"11 Walmer Rd  - Toronto , ON",M5S 1X1,$2250 - $2695
+Toronto,apartment,0-1,1,600,"33 Isabella St  - Toronto , ON",M4Y 1N3,$1895 - $2350
+Etobicoke,apartment,1,1,685,"165 Legion Road North  - Etobicoke , ON",M8Y 1G4,$2095
+Toronto,apartment,1,1,638,"153 Ranleigh Avenue  - Toronto , ON",M4N 1X2,$2026 - $2395
+Toronto,apartment,0-2,1,798,"200 Ridley Boulevard  - Toronto , ON",M5M 3A3,$2116 - $2902
+Toronto,apartment,1,1,485,"12 &amp; 14 Rusholme Drive  - Toronto , ON",M6J 1Y5,$2579
+Toronto,apartment,1,1,700,"619 Woodbine Avenue  - Toronto , ON",M4L 2C2,$2152 - $2317
+Toronto,apartment,1,1,640,"2903 St Clair Avenue East  - Toronto , ON",M4B 2J0,$1999
+Toronto,apartment,1-3,1,608,"7 Jackes Avenue  - Toronto , ON",M4T 1X3,$2145 - $6995
+Toronto,apartment,0-1,1,447,"550 Jarvis Street  - Toronto , ON",M4Y 2Y5,$1850 - $2200
+Toronto,apartment,0-3.5,2.5,865,"71 Redpath Ave  - Toronto , ON",M4P 1G4,$2410 - $8250
+Toronto,apartment,0-1,1,597,"100 Roehampton Avenue  - Toronto , ON",M4P 2C9,$1650 - $2400
+Toronto,apartment,1-2,2,3037,"77 &amp; 99 Gerrard Street West  - Toronto , ON",M5G 2C4,$2500 - $4200
+Toronto,apartment,0-1,1,623,"1 Homewood Avenue  - Toronto , ON",M4X 1K2,$1949 - $2299
+Toronto,apartment,0-1,1,900,"100 Unity Road  - Toronto , ON",M4J 5B2,$1350 - $1450
+Toronto,apartment,1,1,966,"31 Tichester Road  - Toronto , ON",M5P 1P3,$1499
+North York,apartment,1-2,1,911,"1440 Lawrence Avenue West  - North York , ON",M6M 4A2,$1850 - $2650
+Toronto,apartment,1,1,2416,"2700 Bathurst Street  - Toronto , ON",M6B 2Y8,$2195
+City not found,apartment,0-2,1,387,"1401-1407 Dupont Street  - Toronto , ON",M6G 1Z4,$1650 - $2400
+Toronto,apartment,0,1,2351,"2893 &amp; 2897 St. Clair Ave. E  - Toronto , ON",M4T 3A4,$1903
+East York,apartment,1-2,1,1250,"130 Gowan Ave.  - East York , ON",M4K 2E4,$2454 - $2933
+Toronto,apartment,0,1,960,"2367 Queen St. E  - Toronto , ON",M4E 1G1,$1999
+Toronto,apartment,0-2,1,1009,"414 Jarvis Street  - Toronto , ON",M4Y 3C1,$1800 - $2900
+Toronto,apartment,1-2,1,614,"2895 Bathurst Street  - Toronto , ON",M6B 3B1,$2450 - $2800
+Toronto,apartment,2,1,986,"4 Hill Heights Road  - Toronto , ON",M8Y 4B6,$2300
+Toronto,apartment,0-2,1,740,"2507 &amp; 2515 Eglinton Avenue West  - Toronto , ON",Postal code not found,$1550 - $2550
+Toronto,apartment,1-2,1,473,"7 Walmer Rd  - Toronto , ON",M5S 1X1,$2649 - $3269
+Toronto,apartment,1,1,669,"40 Gerrard St. E  - Toronto , ON",M5B 1G7,$2349 - $2449
+Toronto,apartment,1,1,650,"625 Roselawn Ave  - Toronto , ON",M5N 2M6,$2115
+Scarborough,apartment,0,1,595,"50 Burnhill Rd.  - Scarborough , ON",Postal code not found,$2227
+Toronto,apartment,1,1,500,"620 Northcliffe Boulevard  - Toronto , ON",M6E 3G9,$2339
+City not found,apartment,1,1,460,"2402-2406 Queen St. E  - Toronto , ON",M4M 1G3,$2299
+East York,apartment,1,1,649,"260 Gamble Ave.  - East York , ON",M4J 2P4,$2574
+Toronto,apartment,1,1,903,"501 Mount Pleasant Road  - Toronto , ON",M4S 2M2,$2000
+Toronto,apartment,0-2,1,800,"155 Balliol Street  - Toronto , ON",M4S 3C4,$2100 - $3200
+Toronto,apartment,1-2,2,924,"65 Lillian Street  - Toronto , ON",M4S 0B7,$2705 - $3355
+Toronto,apartment,1-3,2,900,"55 Gerrard St W  - Toronto , ON",M5G 2J9,$3407 - $4489
+East York,apartment,1,1,715,"150 Cosburn Ave  - East York , ON",M4K 3W3,$2025
+Scarborough,apartment,1-2,1,1477,"30 Burnhill Rd  - Scarborough , ON",Postal code not found,$1950 - $2400
+Toronto,apartment,1-3,2,750,"25 Nicholas Avenue  - Toronto , ON",M5A 0M9,$2600 - $4300
+Toronto,apartment,0-2,1,1100,"1101 Bay Street  - Toronto , ON",M4W 1A5,$2295 - $3595
+Toronto,apartment,1,1,950,"2892 St. Clair Ave. E  - Toronto , ON",M4B 2J0,$2149
+East York,apartment,0-1,1,1300,"100 Cosburn Ave.  - East York , ON",M4K 3W2,$2034 - $2527
+Toronto,apartment,1,1,700,"300 Eglinton Avenue East  - Toronto , ON",M4P 3B7,$2500
+East York,apartment,1-2,1,890,"71 Thorncliffe Park Dr.  - East York , ON",M4H 1J6,$2453 - $3072
+Toronto,apartment,1,1,1400,"80 Gowan Avenue  - Toronto , ON",M4K 2E4,$2249
+Toronto,apartment,1,1,700,"391 Sherbourne St  - Toronto , ON",M5A 2S3,$1999
+Toronto,apartment,1,1,380,"107 Redpath Ave  - Toronto , ON",M4P 1G4,$2399
+Toronto,apartment,0,1,811,"608 Church St  - Toronto , ON",M4Y 2C7,$2099
+Toronto,apartment,2,1,130,"200 Dufferin Street  - Toronto , ON",M6K 1G4,$2919
+City not found,apartment,0-2,1,750,"2350 - 2360 Dundas Street West  - Toronto , ON",Postal code not found,$1939 - $2859
+Toronto,apartment,1,1,700,"156 Kingston Road  - Toronto , ON",M4L 1P3,$2100
+Toronto,apartment,0-1,1,600,"110 Unity Road  - Toronto , ON",M4J 5B2,$1350 - $1450
+Toronto,apartment,1,1,500,"680 Roselawn Ave.  - Toronto , ON",M5N 2N1,$2170
+Toronto,apartment,1-2,1,480,"77 Erskine Avenue  - Toronto , ON",M4P 1Y5,$2000 - $2900
+Toronto,apartment,1-1.5,1,900,"50 Portland Street  - Toronto , ON",M5V 2M9,$2479 - $2905
+Toronto,apartment,0-1,1,900,"165 Cosburn Avenue  - Toronto , ON",M4K 3W3,$1750 - $2150
+Toronto,apartment,1,1,900,"68 Hillside Dr.  - Toronto , ON",M4K 2T3,$2327
+Toronto,apartment,0-1,1,800,"200 Jameson Ave  - Toronto , ON",M6K 1M4,$2100 - $2300
+Toronto,apartment,0-3,2.5,700,"50 High Park Avenue  - Toronto , ON",Postal code not found,$2166 - $6074
+Toronto,apartment,0-2,1,850,"569 Broadview Avenue  - Toronto , ON",M4M 2B5,$2159 - $3079
+Toronto,apartment,0-2,1,700,"2837 Yonge Street  - Toronto , ON",M4N 2K7,$1839 - $2679
+Toronto,apartment,1,1,738,"221 Sterling Road  - Toronto , ON",M6P 4H5,$2600
+Toronto,apartment,1,1,1000,"205 Cosburn Avenue  - Toronto , ON",M4J 2P4,$2100
+Toronto,apartment,2,1,717,"90 Adelaide St. East  - Toronto , ON",M5C 2T6,$2575
+Toronto,apartment,1-2,1,450,"221 &amp; 265 Balliol Street  - Toronto , ON",M4S 3C4,$2475 - $2850
+City not found,apartment,1,1,2600,"30-50 Hillsboro Avenue  - Toronto , ON",M5R 1R1,$2699
+Toronto,apartment,1,1,600,"100 Gowan Avenue  - Toronto , ON",M4K 2E4,$2349 - $2389
+Etobicoke,apartment,0,1,855,"2335 Lake Shore Blvd West  - Etobicoke , ON",M8V 4A2,$1750
+Toronto,apartment,1,1,1450,"196 Eglinton Avenue East  - Toronto , ON",M4P 1J4,$1950
+City not found,apartment,1-1.5,1,750,"34-42 Maitland Street  - Toronto , ON",M4Y 2G8,$2199 - $2699
+Toronto,apartment,1-2,1,3500,"100 Goodwood Park Court  - Toronto , ON",M4C 5M8,$1950 - $2900
+Toronto,apartment,1,1,900,"812 Lansdowne Avenue  - Toronto , ON",M6H 3Z6,$2400
+Toronto,apartment,3.5,2.5,750,"55 Charles St W  - Toronto , ON",M4W 1A5,$7000
+City not found,apartment,1,1,930,"3110-3112 Yonge St  - Toronto , ON",M4Y 1X4,$2200
+Toronto,apartment,1,1,850,"41 &amp; 45 Lorindale Ave  - Toronto , ON",M4N 3N1,$2400
+Toronto,apartment,1,1,900,"125 Lawton Blvd  - Toronto , ON",M4T 2S9,$2339 - $2369
+Toronto,apartment,2,2,788,"109 Vaughan Road  - Toronto , ON",M6C 4B3,$3400 - $3500
+Toronto,apartment,1-2,1,788,"111 Raglan Avenue  - Toronto , ON",M6C 4B3,$2100 - $2600
+Toronto,apartment,0-2,2,1000,"252 Victoria Street  - Toronto , ON",M5B 1T8,$2000 - $3350
+City not found,apartment,3.5,1,530,"164-168 Grange Avenue  - Toronto , ON",M5T 1G4,$2900
+Toronto,apartment,1-3,1,800,"7 Jackes Avenue  - Toronto , ON",M4T 1X3,$2644 - $7564
+Toronto,apartment,2-3,2,869,"131 Bloor Street West  - Toronto , ON",M5S 1S3,$3800 - $7355
+Toronto,apartment,0,1,1000,"4 Latimer Avenue  - Toronto , ON",M5N 1B4,$1929 - $1959
+East York,apartment,2-3,1,1500,"165 &amp; 195 Barrington Ave  - East York , ON",Postal code not found,$2500 - $2950
+Toronto,apartment,1-3,3.5,880,"85 &amp; 95 Thorncliffe Park Drive  - Toronto , ON",M4H 1H1,$2407 - $5877
+Toronto,apartment,2,2,955,"925 Bay Street  - Toronto , ON",M5S 2S3,$4150 - $4399
+East York,apartment,1,1,617,"20 &amp; 72 Gamble Ave  - East York , ON",M4K 2T3,$2100
+East York,apartment,0-2,1,650,"9 Crescent Pl  - East York , ON",M4C 5M9,$1769 - $2603
+Toronto,apartment,1-2,2,508,"88 Bloor St. E  - Toronto , ON",M4W 1J4,$2449 - $3599
+Toronto,apartment,2,1,1050,"268 Poplar Plains Rd  - Toronto , ON",M4V 2J1,$2600
+Toronto,apartment,1,1,700,"111 Oriole Parkway  - Toronto , ON",M5P 1A4,$2300
+Toronto,apartment,2.5,2,720,"59 East Liberty Street  - Toronto , ON",M6K 3P8,$3975
+Toronto,apartment,1,1,500,"3459 Bathurst Street  - Toronto , ON",M6A 2C7,$1999
+Toronto,apartment,0-2,1,600,"145 St. George Street  - Toronto , ON",M5R 2M7,$1310 - $2325
+Toronto,apartment,0-1,1,650,"10 Walmer Road  - Toronto , ON",M5S 1X1,$1700 - $1850
+Toronto,apartment,1,1,700,"3000 Dufferin Street  - Toronto , ON",M6B 3T4,$2049
+Toronto,apartment,1,1,450,"60 Gloucester Street  - Toronto , ON",M4Y 1Z8,$2900
+Toronto,apartment,1,1,1100,"169 St. George Street  - Toronto , ON",M5R 2N5,$2600
+Toronto,apartment,0,1,2200,"151 St George  - Toronto , ON",M5R 2M7,$2200
+Toronto,apartment,1-1.5,1,520,"66 Isabella Street  - Toronto , ON",M4Y 1N3,$2050 - $2395
+Toronto,apartment,1-2,1,659,"45 Lisgar Street  - Toronto , ON",M6J 3S7,$2200 - $2900
+Toronto,apartment,1,1,600,"55 Lisgar Street  - Toronto , ON",M6J 3S7,$2275
+Toronto,apartment,1,1,550,"276 St. Clair Avenue West  - Toronto , ON",M4V 1P7,$2200
+Toronto,apartment,0,1,1102,"236 Vaughan Road  - Toronto , ON",M6C 4B3,$1845
+Toronto,apartment,0,1,700,"481 Vaughan Road  - Toronto , ON",M6C 2R1,$1720
+Toronto,apartment,0-1,1,700,"545 Sherbourne Street  - Toronto , ON",M4Y 1J2,$1975 - $2300
+Toronto,apartment,0,1,500,"555 Sherbourne Street  - Toronto , ON",M4Y 1V5,$1925
+Toronto,apartment,0-3,1,400,"565 Sherbourne Street  - Toronto , ON",M4X 1W7,$1950 - $3250
+Toronto,apartment,1.5,1,1200,"66 Isabella Street  - Toronto , ON",M4Y 1N3,$2500
+Toronto,apartment,1-2,2,575,"310 &amp; 320 Tweedsmuir Avenue  - Toronto , ON",M5P 2X7,$2565 - $3699
+Toronto,apartment,2-3,2,580,"561 Sherbourne Street  - Toronto , ON",M4Y 1V5,$2700 - $4000
+Toronto,apartment,1-2.5,2,540,"515 Rosewell Avenue  - Toronto , ON",M5M 3X3,$2595 - $3395
+Toronto,apartment,1-3,2,700,"390 Dawes Road  - Toronto , ON",M4B 2E6,$0 - $2045
+Toronto,apartment,2,1,580,"7 Rochefort Drive  - Toronto , ON",M3C 1T3,$1900
+Toronto,apartment,0-1,1,610,"117 Old Forest Hill Road  - Toronto , ON",M5N 1B9,$1550 - $1750
+Toronto,apartment,1,1,600,"44 Thorncliffe Park Drive  - Toronto , ON",M4H 1J6,$1850
+Toronto,apartment,1,1,1200,"589 Vaughan Road  - Toronto , ON",M6C 2R1,$1400
+Toronto,condo,2,2,1300,"80 Carr Street  - Toronto , ON",M6J 2E8,$3900
+York,condo,2,2,1300,"840 Saint Clair Avenue West  - York , ON",Postal code not found,$3200
+Toronto,apartment,1.5,1,710,"844 Dundas Street West  - Toronto , ON",M6J 1W1,$2600
+Toronto,condo,1.5,1,575,"330 Adelaide Street East  - Toronto , ON",M5C 2T6,$2850
+Toronto,house,3,1,650,"23 Bonnie Brae Boulevard  - Toronto , ON",M4J 1Y3,$3600
+Toronto,condo,1.5,0.5,600,"151 Avenue Road  - Toronto , ON",M4V 2J1,$3500
+Toronto,condo,2,2,1700,"170 Avenue Road  - Toronto , ON",M4V 2J1,$4600
+Toronto,condo,2,2,532,"200 Bloor Street West  - Toronto , ON",M5C 1S8,$4800
+Toronto,condo,2,2,1500,"88 Cumberland Street  - Toronto , ON",M5R 2A7,$550
+Toronto,house,2,2.5,850,"239 Quebec Avenue  - Toronto , ON",Postal code not found,$6000
+Toronto,apartment,1,1,1400,"70 Delisle Avenue  - Toronto , ON",M4T 2S9,$2349
+Toronto,multi-unit,1.5,1,600,"79 Bristol Avenue  - Toronto , ON",M6H 4C7,$2700
+Toronto,apartment,2,1,600,"118 Crescent Road  - Toronto , ON",M4W 1R1,$4995
+Toronto,condo,1.5,1,990,"10 Park Lawn Road  - Toronto , ON",M8V 0J2,$2300
+Toronto,condo,0.5,1,1000,"88 Harbour Street  - Toronto , ON",M5J 0B5,$2000
+Toronto,apartment,1,1,410,"335 Lonsdale Road  - Toronto , ON",M5P 2W3,$1600
+Toronto,private-room,1,1,800,"70 Pembroke Street  - Toronto , ON",M5A 1Z9,$980
+Toronto,duplex,2,1,600,"820 Pape Avenue  - Toronto , ON",M4K 3T6,$2600
+Toronto,condo,1,1,630,"70 Roehampton Avenue  - Toronto , ON",M4P 2C9,$2200
+Toronto,condo,1.5,1,699,"36 Lisgar Street  - Toronto , ON",M6J 3S7,$2250
+Toronto,condo,1,1,1120,"65 East Liberty Street  - Toronto , ON",M6K 3P8,$1950
+Toronto,private-room,1,1,520,"Burnside Drive  - Toronto , ON",M5R 3E6,$1050
+Toronto,condo,1,1,700,"19 Western Battery Road  - Toronto , ON",M6K 3R9,$2400
+Toronto,condo,2,2,1000,"125 Redpath Avenue  - Toronto , ON",M4P 1G4,$3200
+Toronto,condo,2,2,462,"1 Bloor Street East  - Toronto , ON",M4W 1A9,$3400
+Toronto,condo,2,2,475,"200 Sackville Street  - Toronto , ON",M5A 3E7,$3000
+Toronto,condo,2,2,500,"55 Bremner Boulevard  - Toronto , ON",M5J 2V5,$3300
+Toronto,condo,1.5,1,515,"56 Annie Craig Drive  - Toronto , ON",M8V 1A2,$2600
+Toronto,apartment,2,1,400,"1637 Gerrard Street East  - Toronto , ON",M4L 3C6,$3500
+Toronto,condo,2,1,550,"38 Joe Shuster Way  - Toronto , ON",M6K 0A5,$2950
+Toronto,condo,2,2,800,"138 Downes Street  - Toronto , ON",M5E 1Z2,$3500
+Toronto,house,2,2,1200,"95 Wolseley Street  - Toronto , ON",M5T 1A4,$2700
+Toronto,condo,2,2,500,"150 Logan Avenue  - Toronto , ON",M4M 1J5,$3150
+Toronto,condo,1,1,520,"39 Brant Street  - Toronto , ON",M5V 3N1,$2500
+Toronto,town-house,3.5,3,500,"86 Woodbine Avenue  - Toronto , ON",M4L 3R3,$6000
+Toronto,condo,2,2,700,"2369 Danforth Avenue  - Toronto , ON",M4C 1L1,$3400
+Toronto,condo,1,1,1200,"20 Gladstone Avenue  - Toronto , ON",M6J 1H8,$2875
+Toronto,house,3,2,1000,"16 Minto Street  - Toronto , ON",M9L 1A2,$3500
+Toronto,apartment,4,1,750,"11 Nairn Avenue  - Toronto , ON",M6E 1C2,$3400
+Toronto,private-room,1,1,600,"Concord Avenue  - Toronto , ON",M6G 3T5,$1200
+Toronto,condo,2,2,800,"75 Dalhousie Street  - Toronto , ON",M5B 1B2,$3750
+Toronto,house,4,3,590,"25 Ashdale Avenue  - Toronto , ON",M4L 1Z6,$5600
+Toronto,apartment,2,2,560,"28 Linden Street  - Toronto , ON",M4Y 0A4,$3700
+Toronto,apartment,1,1,3000,"335 Palmerston Boulevard  - Toronto , ON",K4A 1W9,$3490
+Toronto,condo,2.5,2,1850,"25 Capreol Court  - Toronto , ON",M5V 4B3,$4500
+Toronto,apartment,2,1,2500,"26 Gifford Street  - Toronto , ON",M5A 2J1,$2500
+Toronto,condo,2,2,850,"900 Saint Clair Avenue West  - Toronto , ON",Postal code not found,$3400
+Toronto,apartment,0-2,1,704,"Jameson Avenue  - Toronto , ON",M6K 1M4,$1750 - $2595
+Toronto,apartment,0-2,1,661,"120 Jameson Avenue  - Toronto , ON",M6K 2X5,$1750 - $2595
+Toronto,house,2,1,1700,"25 Ashdale Avenue  - Toronto , ON",M4L 1Z6,$2700
+Etobicoke,condo,1,1,799,"88 Palace Pier Court  - Etobicoke , ON",M6S 5B5,$2995
+Toronto,condo,1-3,2,457,"48 Power Street  - Toronto , ON",M5A 2Z2,$2350 - $4200
+Toronto,condo,2,1,500,"15 Queens Quay East  - Toronto , ON",M5E 1E5,$5000
+Toronto,bachelor,1,1,169,"286 Perth Avenue  - Toronto , ON",Postal code not found,$1800
+Toronto,apartment,2,1,520,"580 Christie Street  - Toronto , ON",M6C 1A7,$2790
+Etobicoke,condo,1.5,2,900,"2200 Lake Shore Boulevard West  - Etobicoke , ON",M8V 0J2,$2750
+Toronto,condo,2,2,790,"21 Widmer Street  - Toronto , ON",M5V 1J9,$4000
+Toronto,condo,1-3,3,721,"150 Redpath Avenue  - Toronto , ON",M4P 1G4,$2300 - $4000
+Toronto,apartment,3,2,599,"20 Glen Gordon Road  - Toronto , ON",Postal code not found,$5600
+Toronto,condo,3,2,900,"68 Abell Street  - Toronto , ON",M6J 0A9,$4100
+Toronto,condo,2.5,2,560,"39 Sherbourne Street  - Toronto , ON",M4X 1W4,$3700
+Toronto,condo,1.5,1,599,"1 Yorkville Avenue  - Toronto , ON",M4W 1L1,$2750
+Toronto,apartment,2,1,606,"28 Strathgowan Avenue  - Toronto , ON",M4P 2J5,$3300
+Toronto,apartment,2,1,900,"40 Gerrard Street East  - Toronto , ON",M5B 1G7,$2289
+Toronto,condo,1.5,1,1000,"20 Edward Street  - Toronto , ON",M5B 1R7,$3200
+Toronto,condo,2,2,1200,"86 Gerrard Street East  - Toronto , ON",M5B 2J1,$3850
+Toronto,basement,2,2,600,"57 Winnett Avenue  - Toronto , ON",M6C 3N9,$2200
+Toronto,condo,2,1,650,"270 Dufferin Street  - Toronto , ON",M6K 1G4,$3200
+Toronto,condo,1.5,1,499,"270 Dufferin Street  - Toronto , ON",M6K 1G4,$2650
+Toronto,condo,1,1,530,"230 King Street East  - Toronto , ON",M5E 1K3,$2250
+Toronto,basement,1,1,550,"323 Indian Road  - Toronto , ON",Postal code not found,$1650
+Toronto,apartment,1,1,550,"821 Carlaw Avenue  - Toronto , ON",M4K 1P8,$2195
+Toronto,condo,1,1,700,"125 Western Battery Road  - Toronto , ON",M6K 3R9,$2450
+East York,basement,1,2,1500,"301 Gowan Avenue  - East York , ON",M4K 3W2,$1750
+Toronto,condo,2,4,700,"30 Shore Breeze Drive  - Toronto , ON",M8V 1A2,$4000
+Toronto,house,4,1,1029,"62 Hambly Avenue  - Toronto , ON",M4E 1C9,$6300
+Toronto,condo,1,1,600,"7 Grenville Street  - Toronto , ON",M5S 3M4,$2475
+Toronto,apartment,1,1,626,"1 Cosburn Avenue  - Toronto , ON",M4K 3W2,$1800
+Toronto,condo,1,1,950,"225 Sackville Street  - Toronto , ON",M5A 2B7,$2550
+Toronto,condo,1,2,620,"525 Adelaide Street West  - Toronto , ON",M5V 0N8,$4000
+Toronto,private-room,3,1,445,"298 Jarvis Street  - Toronto , ON",M5B 1M1,$1500
+Toronto,apartment,1,1,530,"330 Brock Avenue  - Toronto , ON",M6K 1V0,$2500
+Toronto,basement,1,1,600,"685 Euclid Avenue  - Toronto , ON",M6G 1K8,$2900
+Toronto,apartment,2,1,570,"1809 Danforth Avenue  - Toronto , ON",M4C 1J4,$2795
+Toronto,condo,1,1,1267,"15 Lower Jarvis Street  - Toronto , ON",M5E 0C4,$2450
+Toronto,private-room,1,1,829,"1097 Victoria Park Avenue  - Toronto , ON",M1L 1T4,$1380
+Toronto,apartment,1,1,500,"1503 Danforth Avenue  - Toronto , ON",M4C 1J4,$2995
+Toronto,condo,1,1,920,"600 Fleet Street  - Toronto , ON",M5V 1B7,$2435
+Toronto,apartment,1,1,600,"646 Broadview Avenue  - Toronto , ON",M4K 2P1,$2695
+Toronto,condo,1,1,393,"33 Harbour Square  - Toronto , ON",M5J 1A6,$2750
+Toronto,apartment,2,1,650,"49 Fulton Avenue  - Toronto , ON",M4K 2R6,$3195
+Toronto,condo,1.5,1,550,"11 Brunel Court  - Toronto , ON",M5V 3Y7,$2900
+Toronto,condo,1,1.5,650,"81 Wellesley Street East  - Toronto , ON",M4Y 1H2,$2400
+Toronto,condo,1,1.5,550,"105 Victoria Street  - Toronto , ON",M5C 2T6,$2200
+Toronto,apartment,1.5,2,700,"23 Cannon Road  - Toronto , ON",M8Y 1R8,$2500
+Toronto,house,2,3,250,"22 Burnfield Avenue  - Toronto , ON",M6G 3N1,$3600
+Toronto,house,2,1,530,"124 Kendal Avenue  - Toronto , ON",M5R 2X3,$4700
+Toronto,town-house,3,1,450,"60 Saint David Street  - Toronto , ON",Postal code not found,$4700
+Toronto,house,3,2,70,"26 Squires Avenue  - Toronto , ON",M4B 1E3,$3300
+Toronto,condo,1,2,650,"25 Cole Street  - Toronto , ON",M5A 2Z7,$2900
+Toronto,house,2,1.5,700,"20 Roosevelt Road  - Toronto , ON",M4J 1Y3,$1800
+Toronto,private-room,4,1,907,"101 Lawton Boulevard  - Toronto , ON",M4T 2S9,$1035
+Toronto,apartment,1.5,1,750,"900 Manning Avenue  - Toronto , ON",M6G 1Z4,$4200
+Toronto,condo,2,1,1400,"70 Temperance Street  - Toronto , ON",M5H 4B2,$2790
+Toronto,apartment,2,3,90,"22 Wallace Avenue  - Toronto , ON",M6H 1V4,$2850
+East York,multi-unit,0,1,860,"Glenbrae Avenue  - East York , ON",M4G 3R4,$1690
+Toronto,house,4,2,700,"43 Gloucester Street  - Toronto , ON",M4Y 1Z8,$7950
+Toronto,condo,1,1,750,"42 Charles Street East  - Toronto , ON",M4Y 1T2,$2950
+Toronto,house,5,1,1000,"364 Dupont Street  - Toronto , ON",M5R 1V9,$4498
+Toronto,multi-unit,1.5,1,750,"225 Grace Street  - Toronto , ON",M6G 1B7,$2700
+Toronto,apartment,2,1,650,"74 South Drive  - Toronto , ON",M4W 1R1,$3600
+Toronto,apartment,1,1,1003,"117 Cheritan Avenue  - Toronto , ON",M4R 2B5,$1750
+Toronto,condo,1,1,300,"130 Rusholme Road  - Toronto , ON",M6H 1M2,$2400
+Toronto,apartment,1,2.5,499,"930 Ossington Avenue  - Toronto , ON",M6G 3V5,$2500
+Toronto,multi-unit,2,1,700,"20 Colgate Avenue  - Toronto , ON",M4M 2M6,$2900
+Toronto,apartment,2,1,450,"14 Markdale Avenue  - Toronto , ON",M6C 1W4,$3200
+Toronto,private-room,1,2,650,"14 York Street  - Toronto , ON",M5J 0A3,$1900
+Toronto,basement,1,1,850,"83 Billings Avenue  - Toronto , ON",M4L 2W6,$1750
+Toronto,house,3,1,800,"7 Brookfield Street  - Toronto , ON",M6J 1H6,$4950
+Toronto,condo,1.5,1,700,"323 Richmond Street East  - Toronto , ON",M5A 2Z2,$2549
+Toronto,studio,0,1,1300,"758 Bathurst Street  - Toronto , ON",M6G 1K1,$1800
+Toronto,condo,0,1,970,"121 Prescott Avenue  - Toronto , ON",Postal code not found,$2400
+Toronto,condo,2,1,1557,"35 Rolling Mills Road  - Toronto , ON",M5A 0J2,$2850
+Toronto,house,3.5,1,2300,"5 Ashdale Avenue  - Toronto , ON",M4L 1Z6,$4000
+Toronto,apartment,1,1,499,"972 Bathurst Street  - Toronto , ON",M5R 3G7,$2650
+Toronto,apartment,1,2,749,"972 Bathurst Street  - Toronto , ON",M5R 3G7,$2850
+Toronto,condo,1,1,1100,"85 Bloor Street East  - Toronto , ON",M4W 1A9,$2500
+Toronto,condo,1.5,1,494,"1 The Esplanade  - Toronto , ON",M5E 1A7,$1600
+Toronto,condo,2,1,941,"22 Wellesley Street East  - Toronto , ON",M4Y 2C9,$2000
+Toronto,condo,0.5,1,647,"60 Colborne Street  - Toronto , ON",M5E 0B7,$2400
+Toronto,condo,1,1,1700,"320 Richmond Street East  - Toronto , ON",M5A 1P1,$2400
+East York,condo,1,1,560,"160 Vanderhoof Avenue  - East York , ON",M4G 0B7,$2200
+Toronto,condo,1,1,1300,"25 Capreol Court  - Toronto , ON",M5V 4B3,$1800
+Toronto,basement,0,1,600,"Montrose Avenue  - Toronto , ON",M6G 1C1,$2000
+Toronto,apartment,0,1,600,"Springhurst Avenue  - Toronto , ON",M6K 1A9,$2350
+Toronto,house,2,1,1850,"991 Saint Clair Avenue West  - Toronto , ON",Postal code not found,$2250
+Toronto,apartment,3,1,730,"239 Pickering Street  - Toronto , ON",M4E 1S6,$4190
+Toronto,apartment,1,1,1000,"1328 King Street West  - Toronto , ON",M6K 1G4,$2300
+Toronto,apartment,1,1,600,"200 Redpath Avenue  - Toronto , ON",M4P 1G4,$2570
+Toronto,apartment,2,1,599,"240 Dupont Street  - Toronto , ON",M5R 1V7,$3199
+Toronto,condo,1.5,1,600,"330 Adelaide Street East  - Toronto , ON",M5C 2T6,$2850
+Toronto,house,2,1,1000,"162 Bedford Park Avenue  - Toronto , ON",M5M 3X3,$3300
+Toronto,multi-unit,2,2,915,"1235 Gerrard Street East  - Toronto , ON",M4M 2A1,$3295
+Etobicoke,apartment,0-2,1,600,"2305 Lake Shore Boulevard West  - Etobicoke , ON",M8V 4A2,$1475 - $2395
+Toronto,condo,1,1,545,"125 Blue Jays Way  - Toronto , ON",M5V 3Z9,$2400
+Toronto,condo,2,2.5,560,"125 Blue Jays Way  - Toronto , ON",M5V 3Z9,$3200
+Toronto,condo,1.5,1,1000,"125 Peter Street  - Toronto , ON",M5V 2G5,$3250
+Toronto,apartment,0,2,335,"Dundas Street West  - Toronto , ON",M5G 1M5,$2190
+Toronto,house,3,1,900,"Thornton Avenue  - Toronto , ON",M6E 4M2,$7800
+Toronto,apartment,2,1,750,"8 Norris Crescent  - Toronto , ON",M8V 1C5,$2475
+Toronto,house,3,3,600,"69 Hillcrest Drive  - Toronto , ON",M6G 2E4,$4000
+Toronto,house,3,3.5,920,"139 Kingsmount Park Road  - Toronto , ON",M4L 2C2,$3900
+Toronto,apartment,3,1,780,"2 Bartlett Avenue  - Toronto , ON",M6H 1M6,$4125
+Toronto,duplex,3.5,1.5,629,"19 Burlington Street  - Toronto , ON",M8V 1M9,$4500
+Toronto,house,4.5,1,2000,"144 Glen Albert Drive  - Toronto , ON",M4B 1C5,$5500
+Toronto,apartment,1,4,692,"110 Charles Street West  - Toronto , ON",M5S 1S3,$2850
+Toronto,condo,1.5,0.5,650,"1815 Yonge Street  - Toronto , ON",M4S 3C4,$3200
+Toronto,condo,1.5,1,900,"28 Freeland Street  - Toronto , ON",M5E 1E5,$3300
+Toronto,house,4,1,900,"73 Walker Avenue  - Toronto , ON",M4T 3A8,$7600
+Toronto,condo,2,1,480,"68 Abell Street  - Toronto , ON",M6J 0A9,$3200
+Toronto,apartment,1,1,686,"2076 Queen Street East  - Toronto , ON",M4E 1C9,$2375
+Toronto,condo,1,1,1000,"1926 Lake Shore Boulevard West  - Toronto , ON",Postal code not found,$2300
+Toronto,condo,1,2,910,"50 Bruyeres Mews  - Toronto , ON",M5V 0G7,$2350
+Toronto,town-house,1,2,599,"199 Mutual Street  - Toronto , ON",M5B 1G7,$1750
+Toronto,condo,1,1,800,"165 Legion Road North  - Toronto , ON",M8Y 1G4,$2200
+Toronto,condo,2.5,1,800,"51 Lower Simcoe Street  - Toronto , ON",M5J 3A6,$4100
+Toronto,condo,2,1,641,"101 Peter Street  - Toronto , ON",M5V 2G5,$3300
+Toronto,condo,1.5,1,850,"8 Charlotte Street  - Toronto , ON",M5V 1K1,$2900
+Toronto,apartment,1,1,700,"2221 Yonge Street  - Toronto , ON",M4S 2B1,$2400
+Toronto,multi-unit,2,1,1600,"132 Portland Street  - Toronto , ON",M5V 1M3,$3000
+Toronto,condo,1,1,700,"20 Blue Jays Way  - Toronto , ON",M5V 3Z9,$1800
+Toronto,apartment,1.5,1,800,"251 Jarvis Street  - Toronto , ON",M5A 4R6,$2500
+Toronto,condo,1.5,1,600,"225 Sumach Street  - Toronto , ON",M5A 3H6,$2750
+Toronto,apartment,2,1,631,"701 Dupont Street  - Toronto , ON",M6G 1Z6,$3600
+Toronto,house,2,1,800,"20 Herbert Ave | Unit: Upper  - Toronto , ON",Postal code not found,$2750
+Toronto,apartment,2,2,1675,"138 Woburn Avenue  - Toronto , ON",M4N 2L2,$3300
+Toronto,apartment,1,1,600,"272 Eglinton Avenue West  - Toronto , ON",M4R 1B2,$2300
+Toronto,condo,1,1,650,"11 Brunel Court  - Toronto , ON",M5V 3Y7,$2600
+Toronto,house,3,1,560,"69 Hillcrest Drive  - Toronto , ON",M6G 2E4,$4000
+Toronto,studio,0,1,599,"251 Jarvis Street  - Toronto , ON",M5A 4R6,$2350
+Toronto,condo,1,1,537,"501 Saint Clair Avenue West  - Toronto , ON",Postal code not found,$2500
+Etobicoke,condo,1,1,687,"60 Annie Craig Drive  - Etobicoke , ON",M8V 1A2,$2400
+Etobicoke,condo,1,2,1100,"60 Annie Craig Drive  - Etobicoke , ON",M8V 1A2,$2400
+York,loft,1,2,750,"16 Northwestern Avenue  - York , ON",M6M 2J7,$2150
+East York,house,2,2,1350,"22 Barfield Avenue  - East York , ON",M4J 2R2,$2500
+Toronto,condo,1.5,1,540,"138 Downes Street  - Toronto , ON",M5E 1Z2,$3100
+Toronto,condo,2,1,693,"75 East Liberty Street  - Toronto , ON",M6K 3P8,$3995
+Toronto,basement,3,2,785,"24 Duggan Avenue  - Toronto , ON",M4V 1W6,$3000
+Toronto,apartment,1,1,1500,"160 Dowling Avenue  - Toronto , ON",M6R 1A6,$2450
+Toronto,condo,1.5,1,380,"2301 Danforth Avenue  - Toronto , ON",M4C 1K3,$2395
+Toronto,condo,2,1,600,"2 Covington Road  - Toronto , ON",M6A 3B7,$3250
+York,condo,1.5,1,800,"2306 Saint Clair Avenue West  - York , ON",Postal code not found,$2500
+Toronto,condo,1,1,2000,"20 John St | Unit: 200  - Toronto , ON",Postal code not found,$2999
+Toronto,condo,1,2,1400,"14 York Street  - Toronto , ON",M5J 0A3,$3095
+Toronto,condo,1,2,1000,"14 York Street  - Toronto , ON",M5J 0A3,$2999
+Toronto,condo,1,1,1500,"352 Front Street West  - Toronto , ON",M5V 0K3,$2990
+Toronto,apartment,1-3,1,600,"299 Glenlake Avenue  - Toronto , ON",Postal code not found,$2325 - $3635
+Toronto,condo,2,1,918,"20 Joe Shuster Way  - Toronto , ON",M6K 0C1,$3500
+Toronto,private-room,0,1,735,"175 Wynford Drive  - Toronto , ON",M3C 0C7,$2000
+Toronto,basement,1,1,663,"15 Mountnoel Avenue  - Toronto , ON",M4J 5B5,$1700
+Toronto,apartment,2,1,766,"367 Howland Avenue  - Toronto , ON",M5R 1K9,$3590
+Toronto,basement,1,1,500,"40 Edinborough Court  - Toronto , ON",Postal code not found,$1800
+Toronto,condo,1,1,685,"38 Grenville Street  - Toronto , ON",M5S 3M4,$2650
+Toronto,apartment,3,1,500,"315 Indian Grove  - Toronto , ON",Postal code not found,$3500
+Toronto,condo,0,2,809,"600 Fleet Street  - Toronto , ON",M5V 1B7,$2000
+Toronto,apartment,1,1,620,"69 Lynn Williams Street  - Toronto , ON",M6K 3R9,$2589
+Toronto,condo,1,1,1050,"38 Howard Park Avenue  - Toronto , ON",M6R 0A7,$2500
+Toronto,condo,1.5,1,570,"125 Western Battery Road  - Toronto , ON",M6K 3R9,$2700
+Toronto,condo,1,1,500,"1205 Queen Street West  - Toronto , ON",M6K 0B9,$2400
+Toronto,condo,2,1,610,"160 Canon Jackson Drive  - Toronto , ON",M6M 2L7,$3000
+Toronto,condo,0,1.5,1010,"10 Willison Square  - Toronto , ON",M5T 2E4,$2100
+Toronto,condo,1,1,900,"50 Western Battery Road  - Toronto , ON",M6K 3R9,$2400
+Toronto,house,1,1,380,"Rose Park Drive  - Toronto , ON",M4T 1E6,$1490
+Toronto,condo,1,2,800,"501 Saint Clair Avenue West  - Toronto , ON",Postal code not found,$2400
+Toronto,apartment,1,1,2500,"21 Delaware Avenue  - Toronto , ON",M6H 1A6,$1550
+Toronto,town-house,2.5,1,1500,"112 Wallace Avenue  - Toronto , ON",M6H 1V4,$3850
+Toronto,apartment,1,2,1688,"1727a Bayview Avenue  - Toronto , ON",M4M 2B5,$1850
+Toronto,bachelor,0,1,1150,"91 Wellesley Street East  - Toronto , ON",M4Y 1H2,$2049
+Toronto,private-room,1,1,520,"372 Northcliffe Boulevard  - Toronto , ON",M6E 3K4,$1500
+Toronto,condo,1.5,2,600,"1 Shaw Street  - Toronto , ON",M6K 3R9,$2700
+York,apartment,3,1,535,"4075 Old Dundas Street  - York , ON",Postal code not found,$2350
+Toronto,condo,2,1,600,"85 Wood Street  - Toronto , ON",M4Y 1B7,$3850
+Toronto,condo,1,2,820,"101 Peter Street  - Toronto , ON",M5V 2G5,$2600
+Toronto,multi-unit,1,1,584,"549 Jones Avenue  - Toronto , ON",M4J 3G8,$2295
+Toronto,condo,2,1,650,"28 Freeland Street  - Toronto , ON",M5E 1E5,$4500
+York,private-room,0,1,843,"34 Victoria Boulevard  - York , ON",M6M 5C4,$1500
+Toronto,apartment,2,1,500,"453 Leslie Street  - Toronto , ON",M4M 2A1,$3290
+Toronto,condo,2,1,510,"43 Eglinton Avenue East  - Toronto , ON",M4P 1A9,$3200
+Toronto,condo,2,1,888,"30 Ordnance Street  - Toronto , ON",M6K 3P8,$3350
+Toronto,condo,1.5,1,746,"21 Carlton Street  - Toronto , ON",M5B 1L2,$4800
+Toronto,apartment,1.5,1,2200,"224 Victor Avenue  - Toronto , ON",M4K 3H9,$2850
+Toronto,apartment,1,1,800,"224 Victor Avenue  - Toronto , ON",M4K 3H9,$2500
+Toronto,condo,1.5,2,800,"11 Ordnance Street  - Toronto , ON",M6K 3P8,$2752
+Toronto,private-room,1,1,908,"8 Mercer Street  - Toronto , ON",M5V 1J5,$1550
+York,studio,1,1,652,"19 Montcalm Avenue  - York , ON",M6E 4Y2,$2000
+Toronto,condo,1,1,1200,"39 Brant Street  - Toronto , ON",M5V 3N1,$2500
+Toronto,duplex,1,1,700,"910 Saint Clarens Avenue  - Toronto , ON",Postal code not found,$2100
+Toronto,condo,1,1.5,1000,"105 The Queensway  - Toronto , ON",M6S 5B5,$2500
+Toronto,condo,1.5,2,1148,"6 Sonic way  - Toronto , ON",Postal code not found,$2500
+Toronto,basement,1,1,1404,"28 Hillary Avenue  - Toronto , ON",Postal code not found,$1850
+Toronto,apartment,2,1,1388,"540 Eglinton Avenue West  - Toronto , ON",M5N 1B4,$3000
+Toronto,condo,1.5,1,800,"77 Mutual Street  - Toronto , ON",M5B 1E5,$2750
+Toronto,multi-unit,2.5,2,1795,"55 Endean Avenue  - Toronto , ON",M4M 3C9,$3700
+Toronto,town-house,2,1,647,"31 Florence Street  - Toronto , ON",M6J 3L2,$3200
+Toronto,apartment,1,1,1970,"Brookmount Road  - Toronto , ON",M4L 1P3,$3100
+Toronto,condo,1,2,545,"750 Bay Street  - Toronto , ON",M5G 2J9,$2750
+York,house,3,2,650,"70 Rogers Road  - York , ON",M6E 3N4,$3600
+Toronto,condo,1,1.5,985,"70 Temperance Street  - Toronto , ON",M5H 4B2,$2500
+Toronto,condo,2,1,575,"25 Baseball Place  - Toronto , ON",M4M 2G1,$3200
+Toronto,house,3,1.5,1399,"124 Hogarth Avenue  - Toronto , ON",M4K 3E1,$3000
+Toronto,condo,1,1.5,600,"55 Cooper Street  - Toronto , ON",M5E 0A3,$2450
+Toronto,condo,3,1.5,500,"270 Dufferin Street  - Toronto , ON",M6K 1G4,$4500
+Toronto,condo,1.5,1,600,"150 Logan Avenue  - Toronto , ON",M4M 1J5,$2699
+Toronto,duplex,2,2,700,"56 Bellwoods Avenue  - Toronto , ON",M6J 2P8,$3500
+Toronto,condo,0.5,2,750,"717 Bay Street  - Toronto , ON",M5G 2J9,$2390
+Toronto,condo,3,1,800,"45 Sunrise Avenue  - Toronto , ON",M4A 1W5,$1300
+Toronto,town-house,3,0.5,1400,"34 Connolly Street  - Toronto , ON",Postal code not found,$2400
+Toronto,condo,1,1,800,"159 Wellesley Street East  - Toronto , ON",M5A 2K3,$2500
+Toronto,condo,1,1,660,"14 York Street  - Toronto , ON",M5J 0A3,$3000
+Toronto,house,3,1,530,"670 Oriole Parkway  - Toronto , ON",M5N 3B1,$5450
+Toronto,condo,2,3,1000,"2221 Yonge Street  - Toronto , ON",M4S 2B1,$3900
+Toronto,multi-unit,2,1,,"479 Whitmore Avenue  - Toronto , ON",M6E 3B5,$3000
+Toronto,condo,1,1,,"34 Tubman Avenue  - Toronto , ON",M5A 1X6,$2600
+Toronto,condo,1,2,,"438 King Street West  - Toronto , ON",M5V 1K1,$2650
+Toronto,condo,1,1,,"460 Adelaide Street East  - Toronto , ON",M5A 1N7,$2500
+Toronto,apartment,1.5,2,,"1537 Dufferin Street  - Toronto , ON",M6H 2H6,$3200
+Toronto,condo,2,2,,"33 Frederick Todd Way  - Toronto , ON",Postal code not found,$3650
+Toronto,condo,1,2,,"783 Bathurst Street  - Toronto , ON",M5S 2R4,$3000
+Toronto,condo,1,1,,"Queen Street West  - Toronto , ON",M6J 1H9,$2450
+Toronto,condo,3,2,,"740 Dupont Street  - Toronto , ON",M6G 0A9,$4188
+Toronto,condo,1,1,,"51 East Liberty Street  - Toronto , ON",M6K 3P8,$2600
+Toronto,apartment,2,4,,"89 McGill Street  - Toronto , ON",M5B 2A2,$3350
+Toronto,condo,0,2,,"251 Jarvis Street  - Toronto , ON",M5A 4R6,$2150
+Toronto,town-house,2,2,,"630 Rogers Road  - Toronto , ON",M6E 4T5,$2800
+Toronto,apartment,2,1,,"15 Lower Jarvis Street  - Toronto , ON",M5E 0C4,$3500
+Toronto,condo,1,2,,"49 East Liberty Street  - Toronto , ON",M6K 3P8,$2850
+Toronto,condo,2.5,2,,"38 The Esplanade  - Toronto , ON",M5E 1A7,$4100
+Toronto,condo,1.5,2,,"245 Dalesford Road  - Toronto , ON",M8Y 1G4,$3200
+Toronto,house,4,1,,"98 Dinnick Crescent  - Toronto , ON",M4N 1T2,$10500
+Toronto,condo,2,1,,"3 Gloucester Street  - Toronto , ON",M4Y 1Z8,$3900
+Toronto,house,3,1,,"671 Millwood Road  - Toronto , ON",M4G 3B4,$4300
+Toronto,condo,1,2,,"77 Harbour Square  - Toronto , ON",M5J 2S2,$3800
+Toronto,condo,2,1,,"19 Western Battery Road  - Toronto , ON",M6K 3R9,$3299
+Toronto,multi-unit,2,1,,"56A Lawrence Avenue East  - Toronto , ON",M1C 3Y1,$2750
+Toronto,condo,2,1,,"56A Lawrence Avenue East  - Toronto , ON",M1C 3Y1,$2750
+Toronto,studio,1,1,,"170 Woodfield Road  - Toronto , ON",M4L 1E2,$2300
+Toronto,condo,1,1,,"12 Yonge Street  - Toronto , ON",M5E 1Z9,$2800
+Toronto,condo,3,2,,"20 Edgecliff Golfway  - Toronto , ON",M3C 3P5,$3500
+Toronto,condo,2,1,,"18 Stafford Street  - Toronto , ON",M5V 3H5,$3600
+Toronto,condo,1,1,,"100 Western Battery Road  - Toronto , ON",M6K 3R9,$2500
+Toronto,basement,1,2,,"87 Brandon Avenue  - Toronto , ON",M6H 2C8,$1750
+Toronto,apartment,1,2,,"2121 Bathurst Street  - Toronto , ON",M6B 2Y8,$2100
+Toronto,apartment,1,2,,"55 Montclair Avenue  - Toronto , ON",M5P 2W3,$2300
+Toronto,house,2,1,,"282 Brunswick Avenue  - Toronto , ON",M5S 1X4,$3650
+North York,condo,1.5,1,,"6 Sonic way  - North York , ON",Postal code not found,$2550
+Toronto,apartment,2,1,,"924A Bloor Street West  - Toronto , ON",Postal code not found,$3100
+Toronto,condo,2,1,,"43 Eglinton Ave E | Unit: Eglinton Ave East  - Toronto , ON",Postal code not found,$3200
+Toronto,multi-unit,3,1.5,,"910 Saint Clarens Avenue  - Toronto , ON",Postal code not found,$6000
+Toronto,condo,1-2,1,,"151 Dan Leckie Way  - Toronto , ON",M5V 4A7,$2450 - $3150
+Toronto,condo,2,1,,"1171 Queen Street West  - Toronto , ON",M6J 1J6,$3500
+Toronto,condo,1.5,1,,"10 Park Lawn Road  - Toronto , ON",M8V 0J2,$2800
+Toronto,condo,1,1,,"88 Harbour Street  - Toronto , ON",M5J 0B5,$2700
+Toronto,condo,1,1,,"159 Wellesley Street East  - Toronto , ON",M5A 2K3,$2600
+Toronto,apartment,2,1,,"68 Fuller Avenue  - Toronto , ON",M6R 1A6,$2500
+Toronto,condo,1.5,1,,"480 Queens Quay West  - Toronto , ON",M5V 2Y3,$3800
+Toronto,house,1,2,,"539 Saint Clarens Avenue  - Toronto , ON",Postal code not found,$1850
+Toronto,apartment,1,1.5,,"2091 Gerrard Street East  - Toronto , ON",M4C 1K4,$2300
+Toronto,apartment,2,1,,"2015 Davenport Road  - Toronto , ON",Postal code not found,$2350
+Toronto,multi-unit,1,1,,"91 Soudan Avenue  - Toronto , ON",M4S 1V5,$2190
+Toronto,apartment,1,1,,"95 Bathurst Street  - Toronto , ON",M5V 0H7,$2700
+Toronto,condo,1,1,,"3091 Dufferin Street  - Toronto , ON",M6B 3T8,$2500
+Toronto,apartment,1,1,,"458 Richmond Street West  - Toronto , ON",M5V 2L4,$2450
+Toronto,condo,2,2,,"39 Roehampton Avenue  - Toronto , ON",M4P 2C9,$3100
+Toronto,private-room,3,1,,"54 Boston Avenue  - Toronto , ON",M4M 3P3,$1700
+Toronto,apartment,1.5,1,,"81 Navy Wharf Court  - Toronto , ON",M5V 3Z9,$2900
+Toronto,private-room,1,1,,"Queen Street West  - Toronto , ON",M6J 1H9,$1580
+Toronto,basement,1,1,,"46 Chelsea Avenue  - Toronto , ON",Postal code not found,$2000
+Toronto,multi-unit,3,2,,"33 Glebemount Avenue  - Toronto , ON",M4C 1K9,$3995
+Toronto,condo,1,3,,"70 Annie Craig Drive  - Toronto , ON",M8V 1A2,$2395
+Toronto,condo,1,1,,"2369 Danforth Avenue  - Toronto , ON",M4C 1L1,$2785
+Toronto,condo,1,1,,"801 King Street West  - Toronto , ON",M5V 1C9,$2450
+Toronto,house,2,1,,"552 Parliament Street  - Toronto , ON",M4X 1P8,$3950
+Toronto,studio,0,1,,"260 Wellesley Street East  - Toronto , ON",M4X 1P8,$1750
+Toronto,condo,1.5,1,,"20 Bruyeres Mews  - Toronto , ON",M5V 0G7,$2800
+Toronto,condo,2,2,,"101 Peter Street  - Toronto , ON",M5V 2G5,$3500
+Toronto,town-house,3,2,,"East York Avenue  - Toronto , ON",M4K 3T8,$4100
+Toronto,town-house,2,2,,"Strachan Avenue  - Toronto , ON",M5V 3H5,$1800
+Toronto,multi-unit,2,1,,"1192 Dufferin Street  - Toronto , ON",M6H 4B5,$3290
+Toronto,condo,2.5,1,,"38 McMurrich Street  - Toronto , ON",M4W 3C7,$5700
+Toronto,condo,2,1,,"126 Simcoe Street  - Toronto , ON",M5H 3B3,$3300
+Toronto,basement,2,2,,"285 Willard Avenue  - Toronto , ON",Postal code not found,$2700
+Toronto,condo,2,1,,"39 Roehampton Avenue  - Toronto , ON",M4P 2C9,$3000
+Toronto,condo,1.5,1,,"138 Downes Street  - Toronto , ON",M5E 1Z2,$3100
+Toronto,condo,2,1,,"55 Gerrard Street West  - Toronto , ON",M5G 2J9,$3650
+Toronto,condo,1,1,,"65 Bremner Boulevard  - Toronto , ON",M5J 0A7,$2700
+Toronto,condo,0,1,,"7 Grenville Street  - Toronto , ON",M5S 3M4,$2100
+Toronto,condo,1,1,,"23 Brant Street  - Toronto , ON",M5V 2M1,$2775
+Toronto,apartment,1,2,,"2385 Dundas Street West  - Toronto , ON",Postal code not found,$2200
+Toronto,condo,2,1,,"65 Bremner Boulevard  - Toronto , ON",M5J 0A7,$4299
+Toronto,condo,1,1,,"28 Wellesley Street East  - Toronto , ON",M4Y 1Y5,$2895
+Toronto,multi-unit,1.5,1,,"4 Lindsey Avenue  - Toronto , ON",M6H 1A7,$2950
+York,private-room,1,1,,"17 Warwick Avenue  - York , ON",M6C 1W4,$850
+Toronto,condo,1,2,,"2220 Lake Shore Boulevard West  - Toronto , ON",M8V 0J2,$2400
+Toronto,basement,1,1,,"1907 Queen Street East  - Toronto , ON",M4L 3R3,$1600
+Toronto,condo,2,1,,"Park Lawn Road  - Toronto , ON",M8Y 3H8,$4990
+Toronto,apartment,3,4,,"1340 Avenue Road  - Toronto , ON",M5N 2H9,$3880
+East York,private-room,1,2,,"461 O'Connor Drive  - East York , ON",M4C 2Z7,$1200
+Toronto,condo,1.5,2.5,,"1030 King Street West  - Toronto , ON",M6K 3R9,$3200
+Toronto,basement,2,1.5,,"41 Aldwych Avenue  - Toronto , ON",M4K 3T6,$2600
+Toronto,apartment,2,1,,"786 Coxwell Avenue  - Toronto , ON",M4C 3C9,$2850
+Toronto,multi-unit,2.5,1,,"Emerson Avenue  - Toronto , ON",M6H 2C7,$3650
+Toronto,bachelor,0,1,,"260 Wellesley Street East  - Toronto , ON",M4X 1P8,$1750
+Toronto,condo,1.5,1,,"23 Brant Street  - Toronto , ON",M5V 2M1,$2950
+Toronto,house,6,2,,"48 Marion Street  - Toronto , ON",M6R 2K6,$5100
+Toronto,loft,1,3,,"166 McCaul Street  - Toronto , ON",M5T 1L1,$4000
+Toronto,condo,2.5,1.5,,"1717 Avenue Road  - Toronto , ON",M5M 3Y6,$6000
+Toronto,town-house,2,1,,"1331 Gerrard Street East  - Toronto , ON",M4L 1Y9,$3450
+Toronto,condo,1,2,,"222 Elm Street  - Toronto , ON",M5T 1L1,$2550
+Toronto,condo,1,1,,"122 Lower Sherbourne Street  - Toronto , ON",M5A 1E6,$2700
+Toronto,condo,1,1,,"45 Baseball Place  - Toronto , ON",M4M 2G1,$2395
+Toronto,condo,1,1,,"25 Neighbourhood Lane  - Toronto , ON",M8Y 1T3,$2400
+Toronto,condo,2,2,,"208 Queens Quay West  - Toronto , ON",M5J 2Y5,$4300
+Toronto,house,3,2.5,,"210 Merton Street  - Toronto , ON",M4S 3G1,$5500
+Toronto,condo,1.5,1,,"20 Richardson Street  - Toronto , ON",M5A 3Y5,$2800
+Toronto,condo,1.5,2,,"60 Saint Clair Avenue West  - Toronto , ON",Postal code not found,$2650
+Toronto,condo,2,2,,"20 Lombard Street  - Toronto , ON",M5C 2G2,$4100
+Toronto,condo,1,1,,"20 Richardson Street  - Toronto , ON",M5A 3Y5,$2400
+Toronto,condo,1,1,,"150 Logan Avenue  - Toronto , ON",M4M 1J5,$2450
+Toronto,basement,1,1.5,,"1745 Bathurst Street  - Toronto , ON",M6C 2C2,$1895
+Toronto,condo,2,1,,"2212 Lake Shore Boulevard West  - Toronto , ON",M8V 0J2,$2900
+Toronto,house,3.5,2,,"110 Edgewood Avenue  - Toronto , ON",M4L 1X8,$6000
+Toronto,private-room,1,2.5,,"208 McCaul Street  - Toronto , ON",M5T 1L1,$1380
+Toronto,condo,2,3,,"158 Downes Street  - Toronto , ON",M5E 1Z2,$3500
+Toronto,condo,2,3,,"101 Charles Street East  - Toronto , ON",M4Y 1T2,$4200
+Toronto,condo,1.5,2,,"100 Western Battery Road  - Toronto , ON",M6K 3R9,$3000
+Toronto,apartment,2,1,,"1914 Bloor Street West  - Toronto , ON",Postal code not found,$2795
+Toronto,apartment,2,3,,"2 Keele Street  - Toronto , ON",Postal code not found,$3295
+Toronto,apartment,1.5,1,,"1657 Bloor Street West  - Toronto , ON",Postal code not found,$2495
+Toronto,condo,2,2,,"505 Richmond Street West  - Toronto , ON",M5V 3N1,$5650
+Toronto,condo,2.5,3,,"455 Front Street East  - Toronto , ON",M5A 0J2,$3700
+Toronto,house,3,1,,"80 Argyle Street  - Toronto , ON",M6J 2Z5,$3995
+Toronto,condo,3,2,,"138 Downes Street  - Toronto , ON",M5E 1Z2,$4950
+Toronto,condo,2.5,3,,"38 Dan Leckie Way  - Toronto , ON",M5V 2V6,$3650
+Toronto,condo,1.5,1,,"161 Roehampton Avenue  - Toronto , ON",M4P 2C9,$3200
+Toronto,multi-unit,2,2,,"389 Spadina Avenue  - Toronto , ON",M5T 2G6,$2800
+Toronto,condo,2.5,1,,"20 Blue Jays Way  - Toronto , ON",M5V 3Z9,$5100
+Toronto,condo,1,1,,"130 River Street  - Toronto , ON",M5A 0M9,$2000
+East York,house,3,3,,"1076 Greenwood Avenue  - East York , ON",M4J 2R2,$4250
+Toronto,house,3,1,,"169 Ashdale Avenue  - Toronto , ON",M4L 1Z6,$4600
+Toronto,condo,1,1,,"25 Telegram Mews  - Toronto , ON",M5V 3Z9,$2850
+Toronto,house,3,1,,"22 Cummings Street  - Toronto , ON",M4M 1R4,$5000
+Toronto,condo,3,1,,"65 Bremner Boulevard  - Toronto , ON",M5J 0A7,$9000
+Toronto,multi-unit,2,1,,"415 Jarvis Street  - Toronto , ON",M4Y 3C1,$2750
+Toronto,condo,2,1,,"1730 Eglinton Avenue East  - Toronto , ON",M1J 2E1,$3000
+Toronto,private-room,1,1,,"394 Dundas Street East  - Toronto , ON",M5A 2A6,$1090
+Toronto,apartment,1,2,,"320 Tweedsmuir Avenue  - Toronto , ON",M5P 2X7,$2575
+Toronto,condo,3,0.5,,"7 Grenville Street  - Toronto , ON",M5S 3M4,$5800
+Toronto,apartment,3,1,,"265 A Boon Avenue  - Toronto , ON",M6E 1B9,$3300
+Toronto,apartment,1,1,,"69 Lynn Williams Street  - Toronto , ON",M6K 3R9,$2350
+Toronto,apartment,1,2,,"8 Dovercourt Road  - Toronto , ON",M6J 3C2,$2300
+Toronto,apartment,2,,,"216 Gerrard Street East  - Toronto , ON",M5A 2E6,$2600
+Toronto,loft,1.5,,,"284 Saint Helens Avenue  - Toronto , ON",M6H 4A1,$4600
+Toronto,condo,2,,,"50 Lynn Williams Street  - Toronto , ON",M6K 3R9,$2800
+East York,apartment,1,,,"850 Pape Avenue  - East York , ON",M4K 3T6,$2300
+Toronto,condo,2.5,,,"211 Saint Patrick Street  - Toronto , ON",Postal code not found,$4200
+Toronto,apartment,1,,,"240 Jane Street  - Toronto , ON",Postal code not found,$2450
+Toronto,condo,1,,,"42 Western Battery Road  - Toronto , ON",M6K 3R9,$2750
+Toronto,condo,1,,,"45 Baseball Place  - Toronto , ON",M4M 2G1,$2400
+Toronto,condo,3,,,"1211 King Street West  - Toronto , ON",M6K 1G4,$4550
